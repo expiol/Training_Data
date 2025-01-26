@@ -1,0 +1,2837 @@
+[
+    {
+      "companyName": "Apple Inc.",
+      "description": "Apple Inc. is an American multinational technology company specializing in consumer electronics, software, and online services.",
+      "location": "Cupertino, California, United States"
+    },
+    {
+      "companyName": "Microsoft Corporation",
+      "description": "Microsoft Corporation is a global technology company known for software products like Windows, Office, and Azure cloud services.",
+      "location": "Redmond, Washington, United States"
+    },
+    {
+      "companyName": "Amazon.com, Inc.",
+      "description": "Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "location": "Seattle, Washington, United States"
+    },
+    {
+      "companyName": "Alphabet Inc.",
+      "description": "Alphabet Inc. is a multinational conglomerate best known as the parent company of Google.",
+      "location": "Mountain View, California, United States"
+    },
+    {
+      "companyName": "Meta Platforms",
+      "description": "Meta Platforms, formerly Facebook, Inc., is a technology conglomerate specializing in social media and virtual reality products.",
+      "location": "Menlo Park, California, United States"
+    },
+    {
+      "companyName": "Tesla, Inc.",
+      "description": "Tesla, Inc. specializes in electric vehicles, battery energy storage, and solar energy solutions.",
+      "location": "Austin, Texas, United States"
+    },
+    {
+      "companyName": "Berkshire Hathaway Inc.",
+      "description": "Berkshire Hathaway is an American multinational conglomerate holding company, led by Warren Buffett.",
+      "location": "Omaha, Nebraska, United States"
+    },
+    {
+      "companyName": "Exxon Mobil Corporation",
+      "description": "Exxon Mobil is an American multinational oil and gas corporation, one of the largest in the world by revenue.",
+      "location": "Irving, Texas, United States"
+    },
+    {
+      "companyName": "Johnson & Johnson",
+      "description": "Johnson & Johnson is an American multinational corporation that develops medical devices, pharmaceuticals, and consumer packaged goods.",
+      "location": "New Brunswick, New Jersey, United States"
+    },
+    {
+      "companyName": "JPMorgan Chase & Co.",
+      "description": "JPMorgan Chase is one of the largest banking and financial services institutions in the United States.",
+      "location": "New York City, New York, United States"
+    },
+    {
+      "companyName": "Walmart Inc.",
+      "description": "Walmart is an American multinational retail corporation operating a chain of hypermarkets and grocery stores.",
+      "location": "Bentonville, Arkansas, United States"
+    },
+    {
+      "companyName": "Bank of America Corporation",
+      "description": "Bank of America is an American multinational investment bank and financial services holding company.",
+      "location": "Charlotte, North Carolina, United States"
+    },
+    {
+      "companyName": "Procter & Gamble",
+      "description": "Procter & Gamble is an American multinational consumer goods corporation with a wide range of personal health/consumer health products.",
+      "location": "Cincinnati, Ohio, United States"
+    },
+    {
+      "companyName": "Nestlé S.A.",
+      "description": "Nestlé is a Swiss multinational food and drink processing conglomerate, one of the largest food companies in the world.",
+      "location": "Vevey, Vaud, Switzerland"
+    },
+    {
+      "companyName": "Samsung Electronics",
+      "description": "Samsung Electronics is a South Korean multinational electronics company and one of the largest technology companies worldwide.",
+      "location": "Suwon, Gyeonggi-do, South Korea"
+    },
+    {
+      "companyName": "Toyota Motor Corporation",
+      "description": "Toyota is a Japanese multinational automotive manufacturer, one of the largest automobile producers globally.",
+      "location": "Toyota City, Aichi, Japan"
+    },
+    {
+      "companyName": "Volkswagen AG",
+      "description": "Volkswagen AG is a German multinational automotive manufacturing company known for brands like VW, Audi, and Porsche.",
+      "location": "Wolfsburg, Lower Saxony, Germany"
+    },
+    {
+      "companyName": "Royal Dutch Shell plc",
+      "description": "Shell is a British multinational oil and gas company and one of the largest energy companies in the world.",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "companyName": "Chevron Corporation",
+      "description": "Chevron is an American multinational energy corporation, active in more than 180 countries worldwide.",
+      "location": "San Ramon, California, United States"
+    },
+    {
+      "companyName": "Industrial and Commercial Bank of China (ICBC)",
+      "description": "ICBC is a Chinese multinational banking company, and one of the 'Big Four' state-owned commercial banks in China.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "China Construction Bank",
+      "description": "China Construction Bank is a major Chinese bank and among the largest banks worldwide by market capitalization.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "Saudi Aramco",
+      "description": "Saudi Aramco is a Saudi Arabian public petroleum and natural gas company, one of the largest oil producers globally.",
+      "location": "Dhahran, Eastern Province, Saudi Arabia"
+    },
+    {
+      "companyName": "Sinopec Group",
+      "description": "Sinopec is a Chinese oil and gas enterprise, one of the largest energy companies in the world.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "AT&T Inc.",
+      "description": "AT&T is an American multinational telecommunications conglomerate, one of the largest providers of mobile and fixed telephone services.",
+      "location": "Dallas, Texas, United States"
+    },
+    {
+      "companyName": "Verizon Communications",
+      "description": "Verizon is an American multinational telecommunications company and a corporate component of the Dow Jones Industrial Average.",
+      "location": "New York City, New York, United States"
+    },
+    {
+      "companyName": "Intel Corporation",
+      "description": "Intel is an American multinational corporation and technology company, the world’s largest semiconductor chip manufacturer by revenue.",
+      "location": "Santa Clara, California, United States"
+    },
+    {
+      "companyName": "IBM",
+      "description": "IBM is an American multinational technology corporation operating in over 170 countries, focusing on computer hardware, software, and consulting.",
+      "location": "Armonk, New York, United States"
+    },
+    {
+      "companyName": "The Coca-Cola Company",
+      "description": "The Coca-Cola Company is an American multinational beverage corporation best known for its flagship product, Coca-Cola.",
+      "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "companyName": "PepsiCo, Inc.",
+      "description": "PepsiCo is an American multinational food, snack, and beverage corporation with products distributed worldwide.",
+      "location": "Purchase, New York, United States"
+    },
+    {
+      "companyName": "Adobe Inc.",
+      "description": "Adobe Inc. is an American multinational computer software company known for products like Photoshop, Acrobat, and Creative Cloud.",
+      "location": "San Jose, California, United States"
+    },
+    {
+      "companyName": "Oracle Corporation",
+      "description": "Oracle Corporation is an American multinational computer technology corporation specializing in database software and cloud systems.",
+      "location": "Austin, Texas, United States"
+    },
+    {
+      "companyName": "Cisco Systems",
+      "description": "Cisco is an American multinational technology conglomerate that develops, manufactures, and sells networking hardware and telecommunications equipment.",
+      "location": "San Jose, California, United States"
+    },
+    {
+      "companyName": "Hewlett Packard Enterprise (HPE)",
+      "description": "HPE is an American multinational enterprise information technology company founded as part of the split of Hewlett-Packard.",
+      "location": "Spring, Texas, United States"
+    },
+    {
+      "companyName": "Dell Technologies",
+      "description": "Dell Technologies is an American multinational technology company that develops, sells, and repairs computers and related products.",
+      "location": "Round Rock, Texas, United States"
+    },
+    {
+      "companyName": "HP Inc.",
+      "description": "HP Inc. is an American multinational information technology company that develops personal computers and printers.",
+      "location": "Palo Alto, California, United States"
+    },
+    {
+      "companyName": "Sony Group Corporation",
+      "description": "Sony is a Japanese multinational conglomerate corporation, focusing on electronics, gaming, entertainment, and financial services.",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "companyName": "Panasonic Corporation",
+      "description": "Panasonic is a major Japanese multinational electronics corporation with a wide range of products.",
+      "location": "Kadoma, Osaka, Japan"
+    },
+    {
+      "companyName": "Hitachi, Ltd.",
+      "description": "Hitachi is a Japanese multinational conglomerate company that operates in sectors including information technology, AI, and construction machinery.",
+      "location": "Chiyoda, Tokyo, Japan"
+    },
+    {
+      "companyName": "Honda Motor Co., Ltd.",
+      "description": "Honda is a Japanese public multinational conglomerate known for manufacturing automobiles, motorcycles, and power equipment.",
+      "location": "Minato, Tokyo, Japan"
+    },
+    {
+      "companyName": "General Motors",
+      "description": "General Motors is an American multinational corporation that designs, manufactures, and markets vehicles and vehicle parts.",
+      "location": "Detroit, Michigan, United States"
+    },
+    {
+      "companyName": "Ford Motor Company",
+      "description": "Ford is an American multinational automaker that sells automobiles and commercial vehicles under the Ford brand.",
+      "location": "Dearborn, Michigan, United States"
+    },
+    {
+      "companyName": "General Electric",
+      "description": "General Electric is an American multinational conglomerate operating in sectors like aviation, power, renewable energy, and healthcare.",
+      "location": "Boston, Massachusetts, United States"
+    },
+    {
+      "companyName": "Boeing",
+      "description": "Boeing is an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, and satellites worldwide.",
+      "location": "Arlington, Virginia, United States"
+    },
+    {
+      "companyName": "Airbus SE",
+      "description": "Airbus SE is a European multinational aerospace corporation, designing and manufacturing aircraft, helicopters, and defense equipment.",
+      "location": "Leiden, Netherlands (Headquarters), Toulouse, France (Operational)"
+    },
+    {
+      "companyName": "Lockheed Martin Corporation",
+      "description": "Lockheed Martin is an American aerospace, arms, defense, information security, and technology corporation.",
+      "location": "Bethesda, Maryland, United States"
+    },
+    {
+      "companyName": "The Walt Disney Company",
+      "description": "Disney is an American multinational entertainment and media conglomerate, operating theme parks, film studios, and television networks.",
+      "location": "Burbank, California, United States"
+    },
+    {
+      "companyName": "Comcast Corporation",
+      "description": "Comcast is an American telecommunications conglomerate and one of the largest broadcasting and cable television companies in the world.",
+      "location": "Philadelphia, Pennsylvania, United States"
+    },
+    {
+      "companyName": "Netflix, Inc.",
+      "description": "Netflix is an American subscription streaming service and production company offering online streaming of films and TV series.",
+      "location": "Los Gatos, California, United States"
+    },
+    {
+      "companyName": "Twitter, Inc.",
+      "description": "Twitter is an American social media company known for its microblogging platform, enabling users to post short messages.",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "companyName": "PayPal Holdings, Inc.",
+      "description": "PayPal is an American multinational financial technology company operating an online payments system worldwide.",
+      "location": "San Jose, California, United States"
+    },
+    {
+      "companyName": "Mastercard Incorporated",
+      "description": "Mastercard is an American multinational financial services corporation providing payment services around the globe.",
+      "location": "Purchase, New York, United States"
+    },
+    {
+      "companyName": "Visa Inc.",
+      "description": "Visa is an American multinational financial services corporation that facilitates electronic funds transfers worldwide.",
+      "location": "Foster City, California, United States"
+    },
+    {
+      "companyName": "McDonald's Corporation",
+      "description": "McDonald’s is an American fast-food company, one of the largest restaurant chains by revenue worldwide.",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "companyName": "Yum! Brands, Inc.",
+      "description": "Yum! Brands is an American fast-food corporation, parent of KFC, Pizza Hut, and Taco Bell.",
+      "location": "Louisville, Kentucky, United States"
+    },
+    {
+      "companyName": "Starbucks Corporation",
+      "description": "Starbucks is an American multinational chain of coffeehouses and roastery reserves, the largest coffeehouse chain in the world.",
+      "location": "Seattle, Washington, United States"
+    },
+    {
+      "companyName": "Costco Wholesale Corporation",
+      "description": "Costco is an American multinational corporation operating a chain of membership-only warehouse clubs.",
+      "location": "Issaquah, Washington, United States"
+    },
+    {
+      "companyName": "Kroger",
+      "description": "Kroger is an American retail company that operates supermarkets and multi-department stores.",
+      "location": "Cincinnati, Ohio, United States"
+    },
+    {
+      "companyName": "Target Corporation",
+      "description": "Target is an American retail corporation, the eighth-largest retailer in the United States.",
+      "location": "Minneapolis, Minnesota, United States"
+    },
+    {
+      "companyName": "The Home Depot",
+      "description": "The Home Depot is the largest home improvement retailer in the United States, selling tools, construction products, and services.",
+      "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "companyName": "Lowe's Companies",
+      "description": "Lowe's is an American retail company specializing in home improvement, operating a chain of retail stores in the US and Canada.",
+      "location": "Mooresville, North Carolina, United States"
+    },
+    {
+      "companyName": "Walgreens Boots Alliance",
+      "description": "Walgreens Boots Alliance is a global pharmacy-led health and wellbeing enterprise, the parent of Walgreens and Boots.",
+      "location": "Deerfield, Illinois, United States"
+    },
+    {
+      "companyName": "CVS Health",
+      "description": "CVS Health is an American healthcare company that owns CVS Pharmacy, a retail pharmacy chain, and several health services.",
+      "location": "Woonsocket, Rhode Island, United States"
+    },
+    {
+      "companyName": "Unilever",
+      "description": "Unilever is a British multinational consumer goods company with products including food, condiments, ice cream, and personal care items.",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "companyName": "L'Oréal S.A.",
+      "description": "L'Oréal is a French personal care company, the world's largest cosmetics company with a wide range of products.",
+      "location": "Clichy, Hauts-de-Seine, France"
+    },
+    {
+      "companyName": "Pfizer Inc.",
+      "description": "Pfizer is an American multinational pharmaceutical and biotechnology corporation focused on developing medicines and vaccines.",
+      "location": "New York City, New York, United States"
+    },
+    {
+      "companyName": "Novartis International AG",
+      "description": "Novartis is a Swiss multinational pharmaceutical corporation, one of the largest pharmaceutical companies by market capitalization.",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "companyName": "Merck & Co., Inc.",
+      "description": "Merck & Co. is an American multinational pharmaceutical company known as MSD outside North America.",
+      "location": "Kenilworth, New Jersey, United States"
+    },
+    {
+      "companyName": "AstraZeneca plc",
+      "description": "AstraZeneca is a British-Swedish multinational pharmaceutical and biotechnology company.",
+      "location": "Cambridge, England, United Kingdom"
+    },
+    {
+      "companyName": "GlaxoSmithKline plc (GSK)",
+      "description": "GSK is a British multinational pharmaceutical company focused on healthcare, vaccines, and consumer healthcare products.",
+      "location": "Brentford, England, United Kingdom"
+    },
+    {
+      "companyName": "Moderna, Inc.",
+      "description": "Moderna is an American biotechnology company pioneering messenger RNA (mRNA) therapeutics and vaccines.",
+      "location": "Cambridge, Massachusetts, United States"
+    },
+    {
+      "companyName": "Airbnb, Inc.",
+      "description": "Airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals.",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "companyName": "Booking Holdings",
+      "description": "Booking Holdings, formerly Priceline Group, owns and operates travel fare aggregators and travel fare metasearch engines.",
+      "location": "Norwalk, Connecticut, United States"
+    },
+    {
+      "companyName": "Uber Technologies, Inc.",
+      "description": "Uber is an American mobility as a service provider, offering ride-hailing, food delivery, and freight transportation.",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "companyName": "Lyft, Inc.",
+      "description": "Lyft is an American transport service company primarily offering ride-hailing services and a variety of transportation options.",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "companyName": "Xiaomi Corporation",
+      "description": "Xiaomi is a Chinese multinational electronics company, producing smartphones, mobile apps, laptops, and related consumer electronics.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "Lenovo Group Limited",
+      "description": "Lenovo is a Chinese multinational technology company, designing and manufacturing consumer electronics, personal computers, and software.",
+      "location": "Beijing, China, and Morrisville, North Carolina, United States"
+    },
+    {
+      "companyName": "Huawei Technologies Co., Ltd.",
+      "description": "Huawei is a Chinese multinational technology corporation that provides telecommunications equipment and consumer electronics.",
+      "location": "Shenzhen, Guangdong, China"
+    },
+    {
+      "companyName": "Tencent Holdings Limited",
+      "description": "Tencent is a Chinese multinational technology conglomerate, best known for social media app WeChat and digital services.",
+      "location": "Shenzhen, Guangdong, China"
+    },
+    {
+      "companyName": "Baidu, Inc.",
+      "description": "Baidu is a Chinese multinational technology company specializing in Internet-related services and products, notably its search engine.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "ByteDance Ltd.",
+      "description": "ByteDance is a Chinese Internet technology company known for the social media platform TikTok and Douyin in China.",
+      "location": "Beijing, China"
+    },
+    {
+      "companyName": "Zoom Video Communications, Inc.",
+      "description": "Zoom is an American communications technology company that provides video telephony and online chat services.",
+      "location": "San Jose, California, United States"
+    },
+    {
+      "companyName": "Electronic Arts Inc.",
+      "description": "Electronic Arts is an American video game company that develops and publishes games across multiple platforms.",
+      "location": "Redwood City, California, United States"
+    },
+    {
+      "companyName": "Activision Blizzard, Inc.",
+      "description": "Activision Blizzard is an American video game holding company, known for titles like Call of Duty, World of Warcraft, and Overwatch.",
+      "location": "Santa Monica, California, United States"
+    },
+    {
+      "companyName": "Nintendo Co., Ltd.",
+      "description": "Nintendo is a Japanese multinational consumer electronics and video game company, creator of franchises like Mario and Zelda.",
+      "location": "Kyoto, Japan"
+    },
+    {
+      "companyName": "Salesforce, Inc.",
+      "description": "Salesforce is an American cloud-based software company providing customer relationship management service.",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "companyName": "SAP SE",
+      "description": "SAP is a German multinational software corporation that develops enterprise software to manage business operations and customer relations.",
+      "location": "Walldorf, Baden-Württemberg, Germany"
+    },
+    {
+      "companyName": "Capgemini SE",
+      "description": "Capgemini is a French multinational information technology services and consulting company.",
+      "location": "Paris, Île-de-France, France"
+    },
+    {
+      "companyName": "Accenture plc",
+      "description": "Accenture is an Irish-American professional services company specializing in information technology and consulting.",
+      "location": "Dublin, Ireland (Global); New York, United States (HQ for North America)"
+    },
+    {
+      "companyName": "Fujitsu Limited",
+      "description": "Fujitsu is a Japanese multinational information technology equipment and services company, one of the world’s largest IT service providers.",
+      "location": "Minato, Tokyo, Japan"
+    },
+    {
+      "companyName": "Deloitte",
+      "description": "Deloitte is a multinational professional services network, considered one of the Big Four accounting organizations.",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "companyName": "PwC (PricewaterhouseCoopers)",
+      "description": "PwC is a multinational professional services network of firms, operating as partnerships under the PwC brand.",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "companyName": "KPMG",
+      "description": "KPMG is a global network of professional firms providing audit, tax, and advisory services, one of the Big Four auditors.",
+      "location": "Amstelveen, Netherlands (Global HQ)"
+    },
+    {
+      "companyName": "Ernst & Young (EY)",
+      "description": "EY is a multinational professional services partnership and one of the largest accounting firms in the world.",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "companyName": "Tata Consultancy Services (TCS)",
+      "description": "TCS is an Indian multinational information technology services and consulting company, part of the Tata Group.",
+      "location": "Mumbai, Maharashtra, India"
+    },
+    {
+      "companyName": "Wipro Limited",
+      "description": "Wipro is an Indian multinational corporation that provides information technology, consulting, and business process services.",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "companyName": "Infosys Limited",
+      "description": "Infosys is an Indian multinational corporation that provides business consulting, information technology, and outsourcing services.",
+      "location": "Bengaluru, Karnataka, India"
+    },
+    {
+      "companyName": "Reliance Industries Limited",
+      "description": "Reliance is an Indian multinational conglomerate company with interests in energy, petrochemicals, textiles, natural resources, and telecom.",
+      "location": "Mumbai, Maharashtra, India"
+    },
+    {
+      "companyName": "Vale S.A.",
+      "description": "Vale is a Brazilian multinational corporation engaged in metals and mining, and one of the largest logistics operators in Brazil.",
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "companyName": "Petróleo Brasileiro S.A. (Petrobras)",
+      "description": "Petrobras is a Brazilian multinational corporation in the petroleum industry, specializing in oil, natural gas, and energy.",
+      "location": "Rio de Janeiro, Brazil"
+    },
+    {
+      "companyName": "Mitsubishi Corporation",
+      "description": "Mitsubishi Corporation is a Japanese multinational conglomerate focusing on finance, banking, energy, machinery, chemicals, and food.",
+      "location": "Chiyoda, Tokyo, Japan"
+    },
+
+        {
+          "companyName": "3M Company",
+          "description": "3M is an American multinational conglomerate operating in industries such as healthcare, consumer goods, and worker safety.",
+          "location": "St. Paul, Minnesota, United States"
+        },
+        {
+          "companyName": "ABB Ltd.",
+          "description": "ABB is a Swiss-Swedish multinational corporation operating mainly in robotics, power, heavy electrical equipment, and automation technology.",
+          "location": "Zürich, Switzerland"
+        },
+        {
+          "companyName": "Abbott Laboratories",
+          "description": "Abbott is an American multinational medical devices and health care company, known for diagnostics and branded generic medicines.",
+          "location": "Abbott Park, Illinois, United States"
+        },
+        {
+          "companyName": "AbbVie Inc.",
+          "description": "AbbVie is an American biopharmaceutical company formed as a spin-off of Abbott Laboratories.",
+          "location": "North Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Allianz SE",
+          "description": "Allianz is a German multinational financial services company and one of the largest insurers in the world.",
+          "location": "Munich, Bavaria, Germany"
+        },
+        {
+          "companyName": "American Express Company",
+          "description": "American Express is an American multinational financial services corporation known for its charge cards and traveler's cheques.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Amgen Inc.",
+          "description": "Amgen is an American multinational biopharmaceutical company, one of the world’s largest independent biotechnology firms.",
+          "location": "Thousand Oaks, California, United States"
+        },
+        {
+          "companyName": "Anheuser-Busch InBev",
+          "description": "AB InBev is a multinational drink and brewing holdings company, one of the largest brewers in the world.",
+          "location": "Leuven, Belgium"
+        },
+        {
+          "companyName": "ArcelorMittal",
+          "description": "ArcelorMittal is a multinational steel manufacturing corporation and one of the largest steel producers worldwide.",
+          "location": "Luxembourg City, Luxembourg"
+        },
+        {
+          "companyName": "Astellas Pharma Inc.",
+          "description": "Astellas Pharma is a Japanese multinational pharmaceutical company formed from the merger of Yamanouchi and Fujisawa.",
+          "location": "Tokyo, Japan"
+        },
+        {
+          "companyName": "Aviva plc",
+          "description": "Aviva is a British multinational insurance company, providing savings, retirement, and insurance products.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "AXA S.A.",
+          "description": "AXA is a French multinational insurance firm, providing global insurance, investment management, and other financial services.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Banca Intesa Sanpaolo S.p.A.",
+          "description": "Intesa Sanpaolo is an Italian banking group formed through the merger of Banca Intesa and Sanpaolo IMI.",
+          "location": "Turin, Piedmont, Italy"
+        },
+        {
+          "companyName": "Banca Monte dei Paschi di Siena S.p.A.",
+          "description": "Established in 1472, it is one of the oldest banks in existence, headquartered in Italy.",
+          "location": "Siena, Tuscany, Italy"
+        },
+        {
+          "companyName": "Bank of China",
+          "description": "Bank of China is one of the four biggest state-owned commercial banks in China, offering comprehensive banking services.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "Barclays plc",
+          "description": "Barclays is a British multinational investment bank and financial services company, headquartered in London.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "BASF SE",
+          "description": "BASF is a German multinational chemical company and the largest chemical producer in the world.",
+          "location": "Ludwigshafen, Rhineland-Palatinate, Germany"
+        },
+        {
+          "companyName": "Bayer AG",
+          "description": "Bayer is a German multinational pharmaceutical and life sciences company, known for healthcare and agricultural products.",
+          "location": "Leverkusen, North Rhine-Westphalia, Germany"
+        },
+        {
+          "companyName": "Bharti Airtel Limited",
+          "description": "Bharti Airtel is an Indian multinational telecommunications services company, operating in several countries in Asia and Africa.",
+          "location": "New Delhi, India"
+        },
+        {
+          "companyName": "BNP Paribas",
+          "description": "BNP Paribas is a French international banking group, one of the largest banks in Europe.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Bosch (Robert Bosch GmbH)",
+          "description": "Bosch is a German multinational engineering and technology company, active in automotive parts, power tools, and home appliances.",
+          "location": "Gerlingen, Baden-Württemberg, Germany"
+        },
+        {
+          "companyName": "Bridgestone Corporation",
+          "description": "Bridgestone is a Japanese multinational auto and truck parts manufacturer, primarily known for tires.",
+          "location": "Tokyo, Japan"
+        },
+        {
+          "companyName": "Brother Industries, Ltd.",
+          "description": "Brother is a Japanese multinational electronics and electrical equipment company, known for printers and sewing machines.",
+          "location": "Nagoya, Aichi, Japan"
+        },
+        {
+          "companyName": "Canadian National Railway (CN)",
+          "description": "Canadian National Railway is a freight railway company serving Canada and the midwestern and southern United States.",
+          "location": "Montreal, Quebec, Canada"
+        },
+        {
+          "companyName": "Canadian Pacific Kansas City (CPKC)",
+          "description": "CPKC is a transnational railway spanning Canada, the United States, and Mexico following the merger of CP and KCS.",
+          "location": "Calgary, Alberta, Canada"
+        },
+        {
+          "companyName": "Carrefour S.A.",
+          "description": "Carrefour is a French multinational retail corporation operating a chain of hypermarkets and convenience stores.",
+          "location": "Boulogne Billancourt, France"
+        },
+        {
+          "companyName": "Castrol Limited",
+          "description": "Castrol is a British global brand of industrial and automotive lubricants, owned by BP.",
+          "location": "Pangbourne, Berkshire, United Kingdom"
+        },
+        {
+          "companyName": "Cathay Pacific Airways Limited",
+          "description": "Cathay Pacific is the flag carrier of Hong Kong, offering passenger and cargo services to worldwide destinations.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "Caterpillar Inc.",
+          "description": "Caterpillar is an American Fortune 100 corporation that designs and manufactures construction machinery and engines.",
+          "location": "Deerfield, Illinois, United States"
+        },
+        {
+          "companyName": "China National Offshore Oil Corporation (CNOOC)",
+          "description": "CNOOC is one of the major national oil companies in China, specializing in offshore oil and gas exploration.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "China Southern Airlines",
+          "description": "China Southern is one of China's largest airlines, providing domestic and international flight services.",
+          "location": "Guangzhou, Guangdong, China"
+        },
+        {
+          "companyName": "Chubb Limited",
+          "description": "Chubb is a global provider of insurance products, including property and casualty, accident and health, reinsurance, and life insurance.",
+          "location": "Zürich, Switzerland"
+        },
+        {
+          "companyName": "Cigna Corporation",
+          "description": "Cigna is an American multinational managed healthcare and insurance company, offering health, life, and accident insurance.",
+          "location": "Bloomfield, Connecticut, United States"
+        },
+        {
+          "companyName": "Citi (Citigroup Inc.)",
+          "description": "Citigroup is an American multinational investment bank and financial services corporation.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Clorox Company",
+          "description": "Clorox is an American global manufacturer and marketer of consumer and professional products, primarily cleaning supplies.",
+          "location": "Oakland, California, United States"
+        },
+        {
+          "companyName": "CME Group Inc.",
+          "description": "CME Group is a global markets company, operating derivatives, options, and futures exchanges including the Chicago Mercantile Exchange.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Colgate-Palmolive Company",
+          "description": "Colgate-Palmolive is an American multinational consumer products company focused on household, health care, and personal care products.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Credit Suisse Group AG",
+          "description": "Credit Suisse is a global investment bank and financial services firm founded and based in Switzerland.",
+          "location": "Zürich, Switzerland"
+        },
+        {
+          "companyName": "Daimler Truck Holding AG",
+          "description": "Daimler Truck is a German manufacturer of commercial vehicles, formerly part of Daimler AG before the corporate split.",
+          "location": "Leinfelden-Echterdingen, Baden-Württemberg, Germany"
+        },
+        {
+          "companyName": "Danone S.A.",
+          "description": "Danone is a French multinational food-products corporation, focusing on dairy, plant-based products, and specialized nutrition.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Deutsche Bank AG",
+          "description": "Deutsche Bank is a German multinational investment bank and financial services company.",
+          "location": "Frankfurt, Hesse, Germany"
+        },
+        {
+          "companyName": "Deutsche Lufthansa AG",
+          "description": "Lufthansa is Germany's largest airline, operating both passenger and cargo services worldwide.",
+          "location": "Cologne, North Rhine-Westphalia, Germany"
+        },
+        {
+          "companyName": "Dow Inc.",
+          "description": "Dow is an American multinational chemical corporation, providing chemical, plastic, and agricultural products.",
+          "location": "Midland, Michigan, United States"
+        },
+        {
+          "companyName": "eBay Inc.",
+          "description": "eBay is an American multinational e-commerce corporation facilitating consumer-to-consumer and business-to-consumer sales.",
+          "location": "San Jose, California, United States"
+        },
+        {
+          "companyName": "EDF (Électricité de France)",
+          "description": "EDF is a French electric utility company, largely owned by the French state, operating a diverse portfolio of power generation.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Eiffage SA",
+          "description": "Eiffage is a French civil engineering construction company, specializing in infrastructure and real estate projects.",
+          "location": "Vélizy-Villacoublay, Île-de-France, France"
+        },
+        {
+          "companyName": "ENI S.p.A.",
+          "description": "ENI is an Italian multinational oil and gas company, operating in 66 countries worldwide.",
+          "location": "Rome, Lazio, Italy"
+        },
+        {
+          "companyName": "Enbridge Inc.",
+          "description": "Enbridge is a Canadian multinational energy transportation company, primarily focusing on crude oil and natural gas pipelines.",
+          "location": "Calgary, Alberta, Canada"
+        },
+        {
+          "companyName": "Equinor ASA",
+          "description": "Equinor, formerly Statoil, is a Norwegian state-owned multinational energy company primarily focused on petroleum and wind energy.",
+          "location": "Stavanger, Norway"
+        },
+        {
+          "companyName": "Ericsson (Telefonaktiebolaget LM Ericsson)",
+          "description": "Ericsson is a Swedish multinational networking and telecommunications company, offering infrastructure, software, and services.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Eskom",
+          "description": "Eskom is a South African electricity public utility, generating and distributing electricity to industrial, mining, and residential customers.",
+          "location": "Sandton, Gauteng, South Africa"
+        },
+        {
+          "companyName": "FedEx Corporation",
+          "description": "FedEx is an American multinational delivery services company known for its overnight shipping service.",
+          "location": "Memphis, Tennessee, United States"
+        },
+        {
+          "companyName": "Fonterra Co-operative Group",
+          "description": "Fonterra is a New Zealand multinational dairy co-operative, responsible for approximately 30% of the world's dairy exports.",
+          "location": "Auckland, New Zealand"
+        },
+        {
+          "companyName": "Fox Corporation",
+          "description": "Fox Corporation is an American media company operating in film production, television, and news broadcasting.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Fresenius SE & Co. KGaA",
+          "description": "Fresenius is a German healthcare group, offering products and services for dialysis, hospitals, and outpatient treatment.",
+          "location": "Bad Homburg, Hesse, Germany"
+        },
+        {
+          "companyName": "Gazprom",
+          "description": "Gazprom is a Russian majority state-owned multinational energy corporation specializing in the extraction, production, and supply of natural gas.",
+          "location": "Saint Petersburg, Russia"
+        },
+        {
+          "companyName": "Geely Automobile Holdings",
+          "description": "Geely is a Chinese multinational automotive company, known for passenger cars and commercial vehicles.",
+          "location": "Hangzhou, Zhejiang, China"
+        },
+        {
+          "companyName": "Gerdau S.A.",
+          "description": "Gerdau is a Brazilian steel manufacturer, one of the largest producers of long steel in the Americas.",
+          "location": "Porto Alegre, Rio Grande do Sul, Brazil"
+        },
+        {
+          "companyName": "Glencore plc",
+          "description": "Glencore is an Anglo-Swiss multinational commodity trading and mining company, one of the largest globally.",
+          "location": "Baar, Switzerland"
+        },
+        {
+          "companyName": "Groupe PSA (Stellantis France)",
+          "description": "Groupe PSA was a French multinational automotive manufacturer merged into Stellantis, producing brands like Peugeot and Citroën.",
+          "location": "Rueil-Malmaison, Île-de-France, France"
+        },
+        {
+          "companyName": "Gujarat Cooperative Milk Marketing Federation (Amul)",
+          "description": "Amul is an Indian dairy cooperative, marketing milk and dairy products nationwide and globally.",
+          "location": "Anand, Gujarat, India"
+        },
+        {
+          "companyName": "Haier Group Corporation",
+          "description": "Haier is a Chinese multinational consumer electronics and home appliances company.",
+          "location": "Qingdao, Shandong, China"
+        },
+        {
+          "companyName": "Heineken International",
+          "description": "Heineken is a Dutch brewing company, producing and marketing a wide range of beers and ciders.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "Herbalife Nutrition",
+          "description": "Herbalife is a global multi-level marketing corporation that develops and sells dietary supplements.",
+          "location": "Los Angeles, California, United States"
+        },
+        {
+          "companyName": "Hilton Worldwide",
+          "description": "Hilton is an American multinational hospitality company managing and franchising a broad portfolio of hotels and resorts.",
+          "location": "McLean, Virginia, United States"
+        },
+        {
+          "companyName": "Hyundai Motor Company",
+          "description": "Hyundai is a South Korean multinational automotive manufacturer, producing passenger cars, SUVs, and commercial vehicles.",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "companyName": "Iberdrola, S.A.",
+          "description": "Iberdrola is a Spanish multinational electric utility, engaged in electricity generation, transmission, and distribution.",
+          "location": "Bilbao, Basque Country, Spain"
+        },
+        {
+          "companyName": "ING Groep N.V.",
+          "description": "ING is a Dutch multinational banking and financial services corporation, offering retail and direct banking services.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "InterContinental Hotels Group (IHG)",
+          "description": "IHG is a British multinational hospitality company, operating several hotel brands globally.",
+          "location": "Denham, Buckinghamshire, United Kingdom"
+        },
+        {
+          "companyName": "International Airlines Group (IAG)",
+          "description": "IAG is a multinational airline holding company with major operations in the UK, Spain, and Ireland, including British Airways.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Japan Airlines Co., Ltd.",
+          "description": "Japan Airlines is Japan's flag carrier and second largest airline, operating scheduled and non-scheduled international and domestic flights.",
+          "location": "Shinagawa, Tokyo, Japan"
+        },
+        {
+          "companyName": "JD.com, Inc.",
+          "description": "JD.com is a Chinese e-commerce company, one of China's two largest B2C online retailers, by transaction volume and revenue.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "Kellogg's (Kellogg Company)",
+          "description": "Kellogg's is an American multinational food manufacturing company, producing cereals and convenience foods.",
+          "location": "Battle Creek, Michigan, United States"
+        },
+        {
+          "companyName": "Kimberly-Clark Corporation",
+          "description": "Kimberly-Clark is an American multinational personal care corporation producing paper-based products.",
+          "location": "Irving, Texas, United States"
+        },
+        {
+          "companyName": "Kingfisher plc",
+          "description": "Kingfisher is an international home improvement retail group with brands like B&Q and Screwfix.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "KLA Corporation",
+          "description": "KLA is an American capital equipment company serving the semiconductor industry through process control and yield management.",
+          "location": "Milpitas, California, United States"
+        },
+        {
+          "companyName": "Kone Corporation",
+          "description": "Kone is a Finnish global engineering and service company specializing in elevators, escalators, and automatic doors.",
+          "location": "Espoo, Finland"
+        },
+        {
+          "companyName": "LafargeHolcim (Holcim Group)",
+          "description": "Holcim is a Swiss multinational company that manufactures building materials such as cement and aggregates.",
+          "location": "Zug, Switzerland"
+        },
+        {
+          "companyName": "LG Electronics Inc.",
+          "description": "LG Electronics is a South Korean multinational electronics company producing home appliances, mobile devices, and electronics.",
+          "location": "Yeouido-dong, Seoul, South Korea"
+        },
+        {
+          "companyName": "Lukoil",
+          "description": "Lukoil is a Russian multinational energy corporation specializing in the extraction, production, transport, and sale of petroleum.",
+          "location": "Moscow, Russia"
+        },
+        {
+          "companyName": "Manulife Financial Corporation",
+          "description": "Manulife is a Canadian multinational insurance company and financial services provider, primarily in Asia, Canada, and the U.S.",
+          "location": "Toronto, Ontario, Canada"
+        },
+        {
+          "companyName": "Marriott International, Inc.",
+          "description": "Marriott is an American multinational diversified hospitality company, managing and franchising hotels and lodging facilities.",
+          "location": "Bethesda, Maryland, United States"
+        },
+        {
+          "companyName": "Maruti Suzuki India Limited",
+          "description": "Maruti Suzuki is an Indian automobile manufacturer, a subsidiary of Japanese automaker Suzuki Motor Corporation.",
+          "location": "New Delhi, India"
+        },
+        {
+          "companyName": "Mondelez International, Inc.",
+          "description": "Mondelez International is an American multinational confectionery, food, and beverage company, known for brands like Oreo.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Moët Hennessy Louis Vuitton (LVMH)",
+          "description": "LVMH is a French holding multinational corporation and conglomerate specializing in luxury goods.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Nissan Motor Co., Ltd.",
+          "description": "Nissan is a Japanese multinational automobile manufacturer, producing cars under Nissan, Infiniti, and Datsun brands.",
+          "location": "Nishi-ku, Yokohama, Japan"
+        },
+        {
+          "companyName": "Nomura Holdings, Inc.",
+          "description": "Nomura is a Japanese financial holding company, principally engaging in investment banking and securities brokerage.",
+          "location": "Chūō, Tokyo, Japan"
+        },
+        {
+          "companyName": "NTT (Nippon Telegraph and Telephone Corporation)",
+          "description": "NTT is a Japanese telecommunications company, one of the largest telecom firms in the world.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Odebrecht S.A. (Novonor)",
+          "description": "Novonor, formerly Odebrecht, is a Brazilian conglomerate with diversified businesses in engineering, construction, and chemicals.",
+          "location": "Salvador, Bahia, Brazil"
+        },
+        {
+          "companyName": "Odeon Cinemas Group",
+          "description": "Odeon is a British chain of cinemas, operating in the UK, Ireland, and Norway as part of AMC Theatres.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "OPPO",
+          "description": "OPPO is a Chinese consumer electronics and mobile communications company, known for smartphones and smart devices.",
+          "location": "Dongguan, Guangdong, China"
+        },
+        {
+          "companyName": "Petroliam Nasional Berhad (PETRONAS)",
+          "description": "PETRONAS is a Malaysian fully integrated oil and gas multinational ranked among the largest corporations in the world.",
+          "location": "Kuala Lumpur, Malaysia"
+        },
+        {
+          "companyName": "Philip Morris International Inc.",
+          "description": "Philip Morris International is an American multinational cigarette and tobacco manufacturing company.",
+          "location": "Stamford, Connecticut, United States"
+        },
+        {
+          "companyName": "Phillips 66",
+          "description": "Phillips 66 is an American multinational energy company engaged in refining, transporting, and marketing natural gas and petrochemicals.",
+          "location": "Houston, Texas, United States"
+        },
+        {
+          "companyName": "Publicis Groupe",
+          "description": "Publicis is a French multinational advertising and public relations company, one of the largest marketing and communications firms.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Rakuten Group, Inc.",
+          "description": "Rakuten is a Japanese electronic commerce and online retailing company, offering services like e-commerce, fintech, and digital content.",
+          "location": "Setagaya, Tokyo, Japan"
+        },
+        {
+          "companyName": "Raytheon Technologies Corporation",
+          "description": "Raytheon Technologies is an American multinational aerospace and defense conglomerate, formed by the merger of Raytheon and UTC.",
+          "location": "Arlington, Virginia, United States"
+        },
+        {
+          "companyName": "Reckitt Benckiser Group plc (RB)",
+          "description": "RB is a British multinational consumer goods company, producing health, hygiene, and home products.",
+          "location": "Slough, England, United Kingdom"
+        },
+        {
+          "companyName": "Repsol S.A.",
+          "description": "Repsol is a Spanish multinational energy and petrochemical company, operating in all aspects of the oil and gas industry.",
+          "location": "Madrid, Community of Madrid, Spain"
+        },
+        {
+          "companyName": "Rolls-Royce Holdings plc",
+          "description": "Rolls-Royce is a British multinational engineering company focusing on power and propulsion systems, especially in aerospace.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Rosneft Oil Company",
+          "description": "Rosneft is a Russian integrated energy company, primarily state-owned, involved in exploration, extraction, and production of petroleum.",
+          "location": "Moscow, Russia"
+        },
+        {
+          "companyName": "Royal Bank of Canada (RBC)",
+          "description": "RBC is Canada's largest bank by market capitalization, offering a wide range of financial services globally.",
+          "location": "Toronto, Ontario, Canada"
+        },
+        {
+          "companyName": "SABIC (Saudi Basic Industries Corporation)",
+          "description": "SABIC is a Saudi chemical manufacturing company, a subsidiary of Saudi Aramco, specializing in petrochemicals, chemicals, and metals.",
+          "location": "Riyadh, Saudi Arabia"
+        },
+        {
+          "companyName": "Safran S.A.",
+          "description": "Safran is a French multinational aircraft engine, rocket engine, aerospace-component, and defense company.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Saint-Gobain S.A.",
+          "description": "Saint-Gobain is a French multinational corporation designing, manufacturing, and distributing materials and solutions.",
+          "location": "Courbevoie, Île-de-France, France"
+        },
+        {
+          "companyName": "Sanofi S.A.",
+          "description": "Sanofi is a French multinational pharmaceutical company, offering products in prescription medicines, vaccines, and consumer healthcare.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "SAPURA Energy Berhad",
+          "description": "Sapura Energy is a global integrated oil and gas services and solutions provider based in Malaysia.",
+          "location": "Kuala Lumpur, Malaysia"
+        },
+        {
+          "companyName": "Scotiabank (Bank of Nova Scotia)",
+          "description": "Scotiabank is a Canadian multinational banking and financial services company, known as Canada’s most international bank.",
+          "location": "Toronto, Ontario, Canada"
+        },
+        {
+          "companyName": "Seiko Epson Corporation",
+          "description": "Epson is a Japanese electronics company specializing in imaging-related equipment like printers and projectors.",
+          "location": "Suwa, Nagano, Japan"
+        },
+        {
+          "companyName": "Sharp Corporation",
+          "description": "Sharp is a Japanese multinational corporation designing and manufacturing electronic products.",
+          "location": "Sakai-ku, Sakai, Osaka Prefecture, Japan"
+        },
+        {
+          "companyName": "Siemens AG",
+          "description": "Siemens is a German multinational conglomerate corporation and the largest industrial manufacturing company in Europe.",
+          "location": "Munich, Bavaria, Germany"
+        },
+        {
+          "companyName": "SK Hynix Inc.",
+          "description": "SK Hynix is a South Korean memory semiconductor supplier of dynamic random-access memory chips and flash memory chips.",
+          "location": "Icheon, Gyeonggi-do, South Korea"
+        },
+        {
+          "companyName": "SoftBank Group Corp.",
+          "description": "SoftBank is a Japanese multinational conglomerate holding company focusing on investment management, tech, and energy.",
+          "location": "Minato, Tokyo, Japan"
+        },
+        {
+          "companyName": "Standard Chartered plc",
+          "description": "Standard Chartered is a British multinational banking and financial services company with a strong presence in emerging markets.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Stryker Corporation",
+          "description": "Stryker is an American multinational medical technologies corporation offering implants, surgical equipment, and neurotechnology.",
+          "location": "Kalamazoo, Michigan, United States"
+        },
+        {
+          "companyName": "Sumitomo Corporation",
+          "description": "Sumitomo is one of the largest Japanese trading companies (sogo shosha), engaged in diverse businesses globally.",
+          "location": "Chuo-ku, Tokyo, Japan"
+        },
+        {
+          "companyName": "Suzuki Motor Corporation",
+          "description": "Suzuki is a Japanese multinational corporation manufacturing automobiles, motorcycles, and marine engines.",
+          "location": "Hamamatsu, Shizuoka, Japan"
+        },
+        {
+          "companyName": "Swire Group",
+          "description": "Swire Group is a diversified conglomerate headquartered in Hong Kong, operating in aviation, property, and beverage industries.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+          "description": "TSMC is a Taiwanese multinational semiconductor contract manufacturing and design company, the world's most valuable semiconductor firm.",
+          "location": "Hsinchu, Taiwan"
+        },
+        {
+          "companyName": "Tata Steel Limited",
+          "description": "Tata Steel is an Indian multinational steel-making company and part of the Tata Group.",
+          "location": "Mumbai, Maharashtra, India"
+        },
+        {
+          "companyName": "ThyssenKrupp AG",
+          "description": "ThyssenKrupp is a German multinational conglomerate focusing on industrial engineering and steel production.",
+          "location": "Duisburg and Essen, North Rhine-Westphalia, Germany"
+        },
+        {
+          "companyName": "TotalEnergies SE",
+          "description": "TotalEnergies is a French multinational integrated energy and petroleum company, formerly known as Total.",
+          "location": "Courbevoie, Île-de-France, France"
+        },
+        {
+          "companyName": "Traton SE",
+          "description": "Traton is a subsidiary of the Volkswagen Group, specializing in commercial vehicles like trucks and buses.",
+          "location": "Munich, Bavaria, Germany"
+        },
+        {
+          "companyName": "Turkish Airlines",
+          "description": "Turkish Airlines is the national flag carrier airline of Turkey, operating scheduled services to various international destinations.",
+          "location": "Istanbul, Turkey"
+        },
+        {
+          "companyName": "UniCredit S.p.A.",
+          "description": "UniCredit is an Italian global banking and financial services company, operating in multiple European countries.",
+          "location": "Milan, Lombardy, Italy"
+        },
+        {
+          "companyName": "United Airlines Holdings, Inc.",
+          "description": "United Airlines is a major American airline operating a large domestic and international route network.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Vedanta Limited",
+          "description": "Vedanta is an Indian multinational mining company operating in iron ore, gold, and aluminum mining, among others.",
+          "location": "Mumbai, Maharashtra, India"
+        },
+        {
+          "companyName": "Vodafone Group plc",
+          "description": "Vodafone is a British multinational telecommunications company, operating in Asia, Africa, Europe, and Oceania.",
+          "location": "Newbury, Berkshire, United Kingdom"
+        },
+        {
+          "companyName": "Volvo Group",
+          "description": "Volvo is a Swedish multinational manufacturing company of commercial vehicles such as trucks and buses.",
+          "location": "Gothenburg, Sweden"
+        },
+        {
+          "companyName": "Walmart de México y Centroamérica",
+          "description": "A division of Walmart operating in Mexico and Central America, one of the region's largest retail chains.",
+          "location": "Mexico City, Mexico"
+        },
+        {
+          "companyName": "Warner Bros. Discovery, Inc.",
+          "description": "Warner Bros. Discovery is an American multinational mass media and entertainment conglomerate, owning various film and TV assets.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Westpac Banking Corporation",
+          "description": "Westpac is an Australian bank and financial services provider, one of the country's 'big four' banks.",
+          "location": "Sydney, New South Wales, Australia"
+        },
+        {
+          "companyName": "Woolworths Group Limited",
+          "description": "Woolworths is an Australian retailer operating supermarkets (Woolworths), liquor retailing, and discount department stores.",
+          "location": "Bella Vista, New South Wales, Australia"
+        },
+        {
+          "companyName": "Xerox Holdings Corporation",
+          "description": "Xerox is an American corporation selling print and digital document solutions and services in more than 160 countries.",
+          "location": "Norwalk, Connecticut, United States"
+        },
+        {
+          "companyName": "Yahoo Inc.",
+          "description": "Yahoo is an American web services provider, offering a web portal, search engine, and related services.",
+          "location": "Sunnyvale, California, United States"
+        },
+        {
+          "companyName": "ZTE Corporation",
+          "description": "ZTE is a Chinese technology company specializing in telecommunication equipment and systems.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        
+        {
+          "companyName": "ABB Power Grids (Hitachi Energy)",
+          "description": "Formerly ABB's power grids division, now Hitachi Energy, providing power and digital solutions globally.",
+          "location": "Zürich, Switzerland"
+        },
+        {
+          "companyName": "Acer Inc.",
+          "description": "Acer is a Taiwanese multinational hardware and electronics corporation, specializing in advanced electronics technology.",
+          "location": "Xizhi, New Taipei City, Taiwan"
+        },
+        {
+          "companyName": "Adidas AG",
+          "description": "Adidas is a German multinational corporation designing and manufacturing shoes, clothing, and accessories.",
+          "location": "Herzogenaurach, Bavaria, Germany"
+        },
+        {
+          "companyName": "AFLAC Incorporated",
+          "description": "Aflac is an American insurance company and the largest provider of supplemental insurance in the United States.",
+          "location": "Columbus, Georgia, United States"
+        },
+        {
+          "companyName": "Ageas SA/NV",
+          "description": "Ageas is a multinational insurance company, providing life and non-life insurance products mainly in Europe and Asia.",
+          "location": "Brussels, Belgium"
+        },
+        {
+          "companyName": "AkzoNobel N.V.",
+          "description": "AkzoNobel is a Dutch multinational company that creates paints and performance coatings, headquartered in Amsterdam.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "Al Rajhi Bank",
+          "description": "Al Rajhi Bank is a Saudi Arabian bank and the world’s largest Islamic bank by capital.",
+          "location": "Riyadh, Saudi Arabia"
+        },
+        {
+          "companyName": "Alcoa Corporation",
+          "description": "Alcoa is an American industrial corporation, a major producer of aluminum and related products worldwide.",
+          "location": "Pittsburgh, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Alitalia (Formerly)",
+          "description": "Alitalia was Italy's flag carrier airline. Operations merged into ITA Airways in 2021.",
+          "location": "Fiumicino, Rome, Italy"
+        },
+        {
+          "companyName": "Alpine Electronics, Inc.",
+          "description": "Alpine is a Japanese electronics manufacturer specializing in car audio and navigation systems.",
+          "location": "Iwaki, Fukushima, Japan"
+        },
+        {
+          "companyName": "Amorepacific Corporation",
+          "description": "Amorepacific is a South Korean beauty and cosmetics conglomerate with a portfolio of skincare and makeup brands.",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "companyName": "Ampol Limited",
+          "description": "Ampol is an Australian petroleum company, engaged in the buying, refining, and distribution of petroleum products.",
+          "location": "Sydney, New South Wales, Australia"
+        },
+        {
+          "companyName": "Anglo American plc",
+          "description": "Anglo American is a British listed multinational mining company with operations in southern Africa, the Americas, and Australia.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Aon plc",
+          "description": "Aon is a global professional services firm providing a broad range of risk, reinsurance, and health solutions.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Aramex PJSC",
+          "description": "Aramex is a multinational logistics, courier, and package delivery company based in Dubai, UAE.",
+          "location": "Dubai, United Arab Emirates"
+        },
+        {
+          "companyName": "Arçelik A.Ş.",
+          "description": "Arçelik is a Turkish multinational household appliances manufacturer, producing white goods and electronics.",
+          "location": "Istanbul, Turkey"
+        },
+        {
+          "companyName": "Arla Foods amba",
+          "description": "Arla Foods is a Danish-Swedish multinational cooperative and the largest producer of dairy products in Scandinavia.",
+          "location": "Viby, Aarhus, Denmark"
+        },
+        {
+          "companyName": "Armani Group",
+          "description": "Giorgio Armani S.p.A. is an Italian luxury fashion house that designs, manufactures, and distributes haute couture.",
+          "location": "Milan, Lombardy, Italy"
+        },
+        {
+          "companyName": "Ashok Leyland Limited",
+          "description": "Ashok Leyland is an Indian multinational automotive manufacturer, the second-largest commercial vehicle manufacturer in India.",
+          "location": "Chennai, Tamil Nadu, India"
+        },
+        {
+          "companyName": "ASML Holding N.V.",
+          "description": "ASML is a Dutch multinational company and the largest supplier of photolithography systems for the semiconductor industry.",
+          "location": "Veldhoven, Netherlands"
+        },
+        {
+          "companyName": "Assicurazioni Generali S.p.A.",
+          "description": "Generali is an Italian insurance company, one of the largest in the world, based in Trieste.",
+          "location": "Trieste, Friuli Venezia Giulia, Italy"
+        },
+        {
+          "companyName": "Australian Postal Corporation (Australia Post)",
+          "description": "Australia Post is the government-owned corporation that provides postal services in Australia.",
+          "location": "Melbourne, Victoria, Australia"
+        },
+        {
+          "companyName": "AutoNation, Inc.",
+          "description": "AutoNation is the largest automotive dealer in the United States, providing new and used vehicles and related services.",
+          "location": "Fort Lauderdale, Florida, United States"
+        },
+        {
+          "companyName": "Babcock International Group plc",
+          "description": "Babcock is a British aerospace, defence and nuclear engineering services company.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Balfour Beatty plc",
+          "description": "Balfour Beatty is an international infrastructure group, involved in construction and support services.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "BANDAI NAMCO Holdings Inc.",
+          "description": "Bandai Namco is a Japanese multinational video game developer and publisher, known for franchises like Tekken and Pac-Man.",
+          "location": "Shinagawa, Tokyo, Japan"
+        },
+        {
+          "companyName": "Bank of Montreal (BMO)",
+          "description": "BMO is a Canadian multinational investment bank and financial services company, among the largest banks in Canada.",
+          "location": "Montreal, Quebec, Canada"
+        },
+        {
+          "companyName": "Bank of New York Mellon Corporation (BNY Mellon)",
+          "description": "BNY Mellon is an American investment banking services holding company, the world's largest custodian bank.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Baskin-Robbins",
+          "description": "Baskin-Robbins is an American chain of ice cream and cake specialty shop restaurants, known for its '31 flavors'.",
+          "location": "Canton, Massachusetts, United States"
+        },
+        {
+          "companyName": "Bharat Petroleum Corporation Limited (BPCL)",
+          "description": "BPCL is an Indian government-owned oil and gas corporation, engaged in refining, marketing, and distribution of petroleum.",
+          "location": "Mumbai, Maharashtra, India"
+        },
+        {
+          "companyName": "BlackRock, Inc.",
+          "description": "BlackRock is an American global investment management corporation, one of the world's largest asset managers.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "BNY Mellon Wealth Management",
+          "description": "BNY Mellon's private banking and wealth management arm, providing investment and wealth solutions.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Bombardier Inc.",
+          "description": "Bombardier is a Canadian manufacturer of business jets, formerly involved in rail and recreational products.",
+          "location": "Montreal, Quebec, Canada"
+        },
+        {
+          "companyName": "BorgWarner Inc.",
+          "description": "BorgWarner is an American automotive supplier, specializing in powertrain products for vehicles.",
+          "location": "Auburn Hills, Michigan, United States"
+        },
+        {
+          "companyName": "Boston Scientific Corporation",
+          "description": "Boston Scientific is an American worldwide developer, manufacturer, and marketer of medical devices.",
+          "location": "Marlborough, Massachusetts, United States"
+        },
+        {
+          "companyName": "Brotherhood Mutual Insurance Company",
+          "description": "Brotherhood Mutual provides insurance and risk management services primarily to churches and related ministries.",
+          "location": "Fort Wayne, Indiana, United States"
+        },
+        {
+          "companyName": "BT Group plc",
+          "description": "BT is a British multinational telecommunications holding company, offering broadband, mobile, and TV services.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Cadbury",
+          "description": "Cadbury is a British multinational confectionery company, the second largest confectionery brand in the world.",
+          "location": "Uxbridge, London, England, United Kingdom"
+        },
+        {
+          "companyName": "CAE Inc.",
+          "description": "CAE is a Canadian manufacturer of simulation technologies and training services to airlines, defense, and healthcare sectors.",
+          "location": "Montreal, Quebec, Canada"
+        },
+        {
+          "companyName": "Campbell Soup Company",
+          "description": "Campbell Soup is an American processed food and snack company, offering soups, snacks, and simple meals.",
+          "location": "Camden, New Jersey, United States"
+        },
+        {
+          "companyName": "Canon Inc.",
+          "description": "Canon is a Japanese multinational corporation specializing in the manufacture of imaging and optical products.",
+          "location": "Ōta, Tokyo, Japan"
+        },
+        {
+          "companyName": "Carlsberg Group",
+          "description": "Carlsberg is a global brewing company founded in 1847, producing beer and soft drinks.",
+          "location": "Copenhagen, Denmark"
+        },
+        {
+          "companyName": "Carnival Corporation & plc",
+          "description": "Carnival is a British-American cruise operator, one of the largest cruise line operators in the world.",
+          "location": "Miami, Florida, U.S. and Southampton, U.K."
+        },
+        {
+          "companyName": "Celanese Corporation",
+          "description": "Celanese is an American technology and specialty materials company, a leading producer of acetyl products.",
+          "location": "Irving, Texas, United States"
+        },
+        {
+          "companyName": "CEMEX, S.A.B. de C.V.",
+          "description": "CEMEX is a Mexican multinational building materials company, manufacturing and distributing cement and ready-mix concrete.",
+          "location": "Monterrey, Nuevo León, Mexico"
+        },
+        {
+          "companyName": "Cerner Corporation (Now Oracle Cerner)",
+          "description": "Cerner provides health information technology solutions and services, acquired by Oracle.",
+          "location": "North Kansas City, Missouri, United States"
+        },
+        {
+          "companyName": "China Eastern Airlines Corporation Limited",
+          "description": "China Eastern is one of the major airlines in China, operating international, domestic, and regional routes.",
+          "location": "Shanghai, China"
+        },
+        {
+          "companyName": "China Life Insurance Company",
+          "description": "China Life is one of the largest life insurance companies in China, offering a variety of insurance products.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "China Merchants Bank",
+          "description": "China Merchants Bank is a Chinese bank offering retail, corporate, and investment banking services.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "China Mobile Limited",
+          "description": "China Mobile is a Chinese state-owned telecommunication corporation providing mobile voice and multimedia services.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "China National Petroleum Corporation (CNPC)",
+          "description": "CNPC is a major national oil and gas corporation of China, one of the largest integrated energy groups.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "China Telecom",
+          "description": "China Telecom is a state-owned telecommunication company, offering landline and mobile telephony and internet services.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "China Unicom (Hong Kong) Limited",
+          "description": "China Unicom is a state-owned telecommunications operator in China, providing mobile network and broadband services.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "Chipotle Mexican Grill, Inc.",
+          "description": "Chipotle is an American chain of fast-casual restaurants specializing in bowls, tacos, and Mission-style burritos.",
+          "location": "Newport Beach, California, United States"
+        },
+        {
+          "companyName": "Chow Tai Fook Jewellery Group",
+          "description": "Chow Tai Fook is a Hong Kong-based jewellery company, one of the largest jewelry retailers in the world.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "Church & Dwight Co., Inc.",
+          "description": "Church & Dwight is an American manufacturer of household products, known for brands like Arm & Hammer.",
+          "location": "Ewing, New Jersey, United States"
+        },
+        {
+          "companyName": "CITIC Group Corporation",
+          "description": "CITIC is a state-owned investment company of the People's Republic of China, involved in financial services and real estate.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "CLP Holdings Limited",
+          "description": "CLP Group is an electric company in Hong Kong, providing electricity to Hong Kong and the Asia-Pacific region.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "CNA Financial Corporation",
+          "description": "CNA is a financial corporation providing commercial property and casualty insurance in the U.S.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "CNO Financial Group, Inc.",
+          "description": "CNO Financial Group is an American holding company for a group of insurance companies, serving middle-income Americans.",
+          "location": "Carmel, Indiana, United States"
+        },
+        {
+          "companyName": "Constellation Brands, Inc.",
+          "description": "Constellation Brands is an American producer and marketer of beer, wine, and spirits, with over 100 brands in its portfolio.",
+          "location": "Victor, New York, United States"
+        },
+        {
+          "companyName": "CoorsTek, Inc.",
+          "description": "CoorsTek is an American-based multinational that develops and manufactures technical ceramics and specialty materials.",
+          "location": "Golden, Colorado, United States"
+        },
+        {
+          "companyName": "Crédit Agricole Group",
+          "description": "Crédit Agricole is a French network of cooperative and mutual banks, one of the largest banks in France.",
+          "location": "Montrouge, Île-de-France, France"
+        },
+        {
+          "companyName": "Crown Holdings, Inc.",
+          "description": "Crown Holdings is an American company engaged in the design, manufacture, and sale of packaging products.",
+          "location": "Philadelphia, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Crocs, Inc.",
+          "description": "Crocs is an American company that distributes and once manufactured foam clog shoes.",
+          "location": "Broomfield, Colorado, United States"
+        },
+        {
+          "companyName": "Daikin Industries, Ltd.",
+          "description": "Daikin is a Japanese multinational air conditioning manufacturing company, known for HVAC and refrigeration equipment.",
+          "location": "Osaka, Japan"
+        },
+        {
+          "companyName": "Dalian Wanda Group",
+          "description": "Wanda is a Chinese multinational conglomerate, operating in real estate, tourism, and hospitality.",
+          "location": "Beijing, China"
+        },
+        {
+          "companyName": "Danaher Corporation",
+          "description": "Danaher is an American globally diversified conglomerate with products in environmental and applied solutions, and life sciences.",
+          "location": "Washington, D.C., United States"
+        },
+        {
+          "companyName": "Dassault Systèmes SE",
+          "description": "Dassault Systèmes is a French software corporation developing 3D design, 3D digital mock-up, and PLM solutions.",
+          "location": "Vélizy-Villacoublay, Île-de-France, France"
+        },
+        {
+          "companyName": "Dentsu Group Inc.",
+          "description": "Dentsu is a Japanese international advertising and public relations joint stock company.",
+          "location": "Minato, Tokyo, Japan"
+        },
+        {
+          "companyName": "DHL (Deutsche Post DHL Group)",
+          "description": "DHL is a German logistics company providing international courier, parcel, and express mail services.",
+          "location": "Bonn, North Rhine-Westphalia, Germany"
+        },
+        {
+          "companyName": "Dick's Sporting Goods, Inc.",
+          "description": "Dick's is an American sporting goods retail company, the largest sporting goods retailer in the U.S.",
+          "location": "Coraopolis, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Dominion Energy, Inc.",
+          "description": "Dominion Energy is an American power and energy company supplying electricity and natural gas to parts of the U.S.",
+          "location": "Richmond, Virginia, United States"
+        },
+        {
+          "companyName": "Dongfeng Motor Corporation",
+          "description": "Dongfeng is a Chinese state-owned automobile manufacturer, producing commercial vehicles, passenger vehicles, and parts.",
+          "location": "Wuhan, Hubei, China"
+        },
+        {
+          "companyName": "Dr. Reddy's Laboratories",
+          "description": "Dr. Reddy's is an Indian multinational pharmaceutical company that manufactures and markets a wide range of pharmaceuticals.",
+          "location": "Hyderabad, Telangana, India"
+        },
+        {
+          "companyName": "Edeka Zentrale AG & Co. KG",
+          "description": "Edeka is the largest German supermarket corporation, operating numerous stores across the country.",
+          "location": "Hamburg, Germany"
+        },
+        {
+          "companyName": "Elanco Animal Health Incorporated",
+          "description": "Elanco is an American pharmaceutical company producing medicines and vaccinations for pets and livestock.",
+          "location": "Greenfield, Indiana, United States"
+        },
+        {
+          "companyName": "Electrolux AB",
+          "description": "Electrolux is a Swedish multinational home appliance manufacturer, consistently ranked the world's second-largest appliance maker.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Emerson Electric Co.",
+          "description": "Emerson is an American multinational corporation that manufactures products and provides engineering services for industrial markets.",
+          "location": "St. Louis, Missouri, United States"
+        },
+        {
+          "companyName": "Emirates Group",
+          "description": "Emirates is a state-owned airline and group in the United Arab Emirates, operating over 3,600 flights per week.",
+          "location": "Dubai, United Arab Emirates"
+        },
+        {
+          "companyName": "Eurofins Scientific SE",
+          "description": "Eurofins is a Luxembourgish group of laboratories providing testing and support services to pharma, food, environmental sectors.",
+          "location": "Luxembourg City, Luxembourg"
+        },
+        {
+          "companyName": "F5, Inc.",
+          "description": "F5 is an American company specializing in application services and application delivery networking (ADN).",
+          "location": "Seattle, Washington, United States"
+        },
+        {
+          "companyName": "Fast Retailing Co., Ltd. (Uniqlo)",
+          "description": "Fast Retailing is a Japanese retail holding company, owner of the Uniqlo clothing brand and other fashion labels.",
+          "location": "Yamaguchi, Japan"
+        },
+        {
+          "companyName": "FirstRand Limited",
+          "description": "FirstRand is one of the largest financial institutions in South Africa, providing banking and insurance services.",
+          "location": "Sandton, Gauteng, South Africa"
+        },
+        {
+          "companyName": "Fiserv, Inc.",
+          "description": "Fiserv is an American global provider of financial services technology, including payment systems and transaction processing.",
+          "location": "Brookfield, Wisconsin, United States"
+        },
+        {
+          "companyName": "FMC Corporation",
+          "description": "FMC is an American chemical manufacturing company serving agricultural, industrial, and consumer markets.",
+          "location": "Philadelphia, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Foxconn (Hon Hai Precision Industry Co., Ltd.)",
+          "description": "Foxconn is a Taiwanese multinational electronics manufacturer, the world's largest contract electronics maker.",
+          "location": "Tucheng, New Taipei City, Taiwan"
+        },
+        {
+          "companyName": "Fuyao Glass Industry Group Co., Ltd.",
+          "description": "Fuyao is a Chinese multinational company manufacturing automotive safety glass and industrial glass.",
+          "location": "Fuqing, Fujian, China"
+        },
+        {
+          "companyName": "G4S plc",
+          "description": "G4S is a British multinational security services company, providing security personnel, monitoring equipment, and response services.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "General Mills, Inc.",
+          "description": "General Mills is an American multinational manufacturer and marketer of branded consumer foods sold in retail stores.",
+          "location": "Golden Valley, Minnesota, United States"
+        },
+        {
+          "companyName": "Gibson Brands, Inc.",
+          "description": "Gibson is an American manufacturer of guitars and other musical instruments, one of the most iconic guitar makers in the world.",
+          "location": "Nashville, Tennessee, United States"
+        },
+        {
+          "companyName": "Gree Electric Appliances Inc. of Zhuhai",
+          "description": "Gree is a major Chinese appliance manufacturer, primarily producing air conditioners for residential and commercial use.",
+          "location": "Zhuhai, Guangdong, China"
+        },
+        {
+          "companyName": "Grupo Bimbo, S.A.B. de C.V.",
+          "description": "Grupo Bimbo is a Mexican multinational bakery product manufacturing company, one of the largest baking companies in the world.",
+          "location": "Mexico City, Mexico"
+        },
+        {
+          "companyName": "Guardian Life Insurance Company of America",
+          "description": "Guardian is one of the largest mutual life insurance companies in the United States.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Halliburton Company",
+          "description": "Halliburton is an American multinational corporation, one of the world's largest oil field service companies.",
+          "location": "Houston, Texas, United States"
+        },
+        {
+          "companyName": "Harley-Davidson, Inc.",
+          "description": "Harley-Davidson is an American motorcycle manufacturer, known for its heavyweight motorcycles.",
+          "location": "Milwaukee, Wisconsin, United States"
+        },
+        {
+          "companyName": "HCL Technologies",
+          "description": "HCL is an Indian multinational IT services and consulting company, operating globally in technology and software development.",
+          "location": "Noida, Uttar Pradesh, India"
+        },
+        {
+          "companyName": "Hermès International S.A.",
+          "description": "Hermès is a French luxury goods manufacturer, specializing in leather, lifestyle accessories, home furnishings, perfumery, and ready-to-wear.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Hershey Company",
+          "description": "The Hershey Company is an American multinational company known for its chocolate, baked products, and other snacks.",
+          "location": "Hershey, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Hilti Corporation",
+          "description": "Hilti is a Liechtenstein multinational company that develops and manufactures products for the construction, building maintenance, and mining industries.",
+          "location": "Schaan, Liechtenstein"
+        },
+        {
+          "companyName": "Hitachi Construction Machinery Co., Ltd.",
+          "description": "A subsidiary of Hitachi, it manufactures construction equipment including excavators, loaders, and dump trucks.",
+          "location": "Taito, Tokyo, Japan"
+        },
+        {
+          "companyName": "Hormel Foods Corporation",
+          "description": "Hormel Foods is an American food processing company, known for brands like Spam, Skippy, and Jennie-O.",
+          "location": "Austin, Minnesota, United States"
+        },
+        {
+          "companyName": "HSBC Holdings plc",
+          "description": "HSBC is a British multinational investment bank and financial services holding company, one of the world's largest banks.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Illumina, Inc.",
+          "description": "Illumina is an American biotechnology company developing and marketing integrated systems for the analysis of genetic variation.",
+          "location": "San Diego, California, United States"
+        },
+        {
+          "companyName": "Imperial Brands plc",
+          "description": "Imperial Brands is a British multinational tobacco company, the world's fourth largest international cigarette company.",
+          "location": "Bristol, England, United Kingdom"
+        },
+        {
+          "companyName": "Indian Oil Corporation Limited (IOCL)",
+          "description": "IOCL is an Indian public sector oil and gas company, the largest commercial oil company in India.",
+          "location": "New Delhi, India"
+        },
+        {
+          "companyName": "Ingersoll Rand Inc.",
+          "description": "Ingersoll Rand is an Irish-American global diversified industrial manufacturing company, focusing on air solutions and industrial equipment.",
+          "location": "Davidson, North Carolina, United States"
+        },
+        {
+          "companyName": "Intelbras S.A.",
+          "description": "Intelbras is a Brazilian company specialized in security, networks, and telecommunications solutions.",
+          "location": "São José, Santa Catarina, Brazil"
+        },
+        {
+          "companyName": "Inter IKEA Group",
+          "description": "IKEA is a Dutch-based multinational group that designs and sells ready-to-assemble furniture and home accessories.",
+          "location": "Delft, Netherlands"
+        },
+        {
+          "companyName": "International Paper Company",
+          "description": "International Paper is an American pulp and paper company, the largest such company in the world.",
+          "location": "Memphis, Tennessee, United States"
+        },
+        {
+          "companyName": "Invitae Corporation",
+          "description": "Invitae is an American healthcare company specializing in genetic testing services.",
+          "location": "San Francisco, California, United States"
+        },
+        {
+          "companyName": "Itochu Corporation",
+          "description": "Itochu is one of the largest Japanese sogo shosha (general trading companies), with business interests in many sectors.",
+          "location": "Kita-ku, Osaka and Minato, Tokyo, Japan"
+        },
+        {
+          "companyName": "JetBlue Airways Corporation",
+          "description": "JetBlue is an American low-cost airline, the seventh-largest airline in North America by passengers carried.",
+          "location": "Long Island City, New York, United States"
+        },
+        {
+          "companyName": "Jones Lang LaSalle Incorporated (JLL)",
+          "description": "JLL is a global commercial real estate services company, offering investment management and property services worldwide.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Kawasaki Heavy Industries, Ltd.",
+          "description": "Kawasaki is a Japanese public multinational corporation primarily known for motorcycles, heavy equipment, and aerospace.",
+          "location": "Chūō-ku, Kobe, Japan"
+        },
+        {
+          "companyName": "Kia Corporation",
+          "description": "Kia is a South Korean multinational automobile manufacturer, partially owned by Hyundai Motor Company.",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "companyName": "Kirin Holdings Company, Limited",
+          "description": "Kirin is a Japanese beverage company, producer of beer, soft drinks, and other products.",
+          "location": "Nakano, Tokyo, Japan"
+        },
+        {
+          "companyName": "Konami Holdings Corporation",
+          "description": "Konami is a Japanese entertainment company producing video games, trading cards, anime, and slot machines.",
+          "location": "Chuo, Tokyo, Japan"
+        },
+        {
+          "companyName": "Kubota Corporation",
+          "description": "Kubota is a Japanese tractor and heavy equipment manufacturer, producing agricultural machinery and construction equipment.",
+          "location": "Osaka, Japan"
+        },
+        {
+          "companyName": "Lamborghini (Automobili Lamborghini S.p.A.)",
+          "description": "Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs, owned by the Volkswagen Group.",
+          "location": "Sant'Agata Bolognese, Emilia-Romagna, Italy"
+        },
+        {
+          "companyName": "Lancome (L'Oréal Luxe)",
+          "description": "Lancôme is a French luxury perfumes and cosmetics house, owned by L'Oréal.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Lawson, Inc.",
+          "description": "Lawson is a Japanese convenience store chain, the second largest in the country after 7-Eleven.",
+          "location": "Shinagawa, Tokyo, Japan"
+        },
+        {
+          "companyName": "Lenovo Motorola Mobility",
+          "description": "Formerly Motorola Mobility (Google), acquired by Lenovo, manufacturing smartphones and related devices.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Liberty Global plc",
+          "description": "Liberty Global is an international telecommunications and television company, providing broadband internet, voice, and TV services.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Lincoln National Corporation",
+          "description": "Lincoln Financial Group is an American holding company offering life insurance and investment management.",
+          "location": "Radnor, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Line Corporation",
+          "description": "Line is a Japanese subsidiary of Z Holdings, best known for its communication app offering free voice and video calls.",
+          "location": "Tokyo, Japan"
+        },
+        {
+          "companyName": "Linde plc",
+          "description": "Linde is a global multinational chemical company formed by the merger of Linde AG and Praxair, specializing in industrial gases.",
+          "location": "Woking, Surrey, United Kingdom (Global), Dublin, Ireland (Registered)"
+        },
+        {
+          "companyName": "Lion Air",
+          "description": "Lion Air is an Indonesian low-cost airline, operating domestic and international flights.",
+          "location": "Jakarta, Indonesia"
+        },
+        {
+          "companyName": "London Stock Exchange Group plc",
+          "description": "LSEG is a global financial markets infrastructure business, operating the London Stock Exchange among other services.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Lucid Group, Inc.",
+          "description": "Lucid is an American electric vehicle manufacturer specializing in luxury EV sedans.",
+          "location": "Newark, California, United States"
+        },
+        {
+          "companyName": "Mabe (controladora Mabe S.A. de C.V.)",
+          "description": "Mabe is a Mexican global manufacturer of domestic appliances, exporting to over 70 countries.",
+          "location": "Mexico City, Mexico"
+        },
+        {
+          "companyName": "Mahindra & Mahindra Limited",
+          "description": "Mahindra is an Indian multinational automotive manufacturing corporation, part of the Mahindra Group.",
+          "location": "Mumbai, Maharashtra, India"
+        },
+        {
+          "companyName": "Man Group plc",
+          "description": "Man Group is a British investment management business focusing on hedge funds and alternative investments.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "ManpowerGroup Inc.",
+          "description": "ManpowerGroup is an American multinational corporation providing workforce solutions and services.",
+          "location": "Milwaukee, Wisconsin, United States"
+        },
+        {
+          "companyName": "Mapfre, S.A.",
+          "description": "Mapfre is a Spanish multinational insurance company, one of the largest insurers in Spain and Latin America.",
+          "location": "Majadahonda, Community of Madrid, Spain"
+        },
+        {
+          "companyName": "Markel Corporation",
+          "description": "Markel is a diverse financial holding company serving a variety of niche markets, headquartered in the U.S.",
+          "location": "Glen Allen, Virginia, United States"
+        },
+        {
+          "companyName": "Marathon Petroleum Corporation",
+          "description": "Marathon is an American petroleum refining, marketing, and transportation company.",
+          "location": "Findlay, Ohio, United States"
+        },
+        {
+          "companyName": "Marsh & McLennan Companies, Inc.",
+          "description": "Marsh & McLennan is an American professional services firm offering insurance brokerage, risk management, and consulting.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Mast-Jägermeister SE",
+          "description": "Mast-Jägermeister is a German company known for producing the Jägermeister digestif.",
+          "location": "Wolfenbüttel, Lower Saxony, Germany"
+        },
+        {
+          "companyName": "Medtronic plc",
+          "description": "Medtronic is an American-Irish medical device company, one of the world's largest medical technology providers.",
+          "location": "Minneapolis, Minnesota, U.S. and Dublin, Ireland"
+        },
+        {
+          "companyName": "Mellanox Technologies (NVIDIA Networking)",
+          "description": "Mellanox, acquired by NVIDIA, is an Israeli-American supplier of computer networking products like InfiniBand.",
+          "location": "Yokneam, Israel; Sunnyvale, California, U.S."
+        },
+        {
+          "companyName": "Michelin (Compagnie Générale des Établissements Michelin SCA)",
+          "description": "Michelin is a French multinational tire manufacturer, one of the top tire manufacturers worldwide.",
+          "location": "Clermont-Ferrand, Auvergne-Rhône-Alpes, France"
+        },
+        {
+          "companyName": "MTN Group Limited",
+          "description": "MTN is a South African multinational mobile telecommunications company, operating in many African and Middle Eastern countries.",
+          "location": "Johannesburg, Gauteng, South Africa"
+        },
+        {
+          "companyName": "MUFG (Mitsubishi UFJ Financial Group)",
+          "description": "MUFG is a Japanese bank holding and financial services company, one of the largest banks in the world.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "National Australia Bank (NAB)",
+          "description": "NAB is one of the four largest financial institutions in Australia, providing banking and financial services.",
+          "location": "Melbourne, Victoria, Australia"
+        },
+        {
+          "companyName": "National Grid plc",
+          "description": "National Grid is a British multinational electricity and gas utility company, primarily serving the UK and northeastern US.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Natura &Co",
+          "description": "Natura &Co is a Brazilian global personal care cosmetics group, owning brands like Natura, Avon, and The Body Shop.",
+          "location": "São Paulo, Brazil"
+        },
+        {
+          "companyName": "Navistar International Corporation",
+          "description": "Navistar is an American holding company manufacturing International brand commercial trucks, buses, and engines.",
+          "location": "Lisle, Illinois, United States"
+        },
+        {
+          "companyName": "NEC Corporation",
+          "description": "NEC is a Japanese multinational information technology and electronics company, formerly known as Nippon Electric Company.",
+          "location": "Minato, Tokyo, Japan"
+        },
+        {
+          "companyName": "Nestlé Waters",
+          "description": "Nestlé Waters is the bottled water division of the Nestlé Group, with numerous brands around the world.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Neste Oyj",
+          "description": "Neste is a Finnish oil refining and marketing company, a leading producer of renewable diesel and sustainable aviation fuel.",
+          "location": "Espoo, Uusimaa, Finland"
+        },
+        {
+          "companyName": "NetEase, Inc.",
+          "description": "NetEase is a Chinese Internet technology company providing online services centered on content, community, and e-commerce.",
+          "location": "Hangzhou, Zhejiang, China"
+        },
+        {
+          "companyName": "Newmont Corporation",
+          "description": "Newmont is the world's largest gold mining company, headquartered in the United States.",
+          "location": "Denver, Colorado, United States"
+        },
+        {
+          "companyName": "Nikola Corporation",
+          "description": "Nikola is an American company that designs and manufactures electric trucks and hydrogen fuel cell vehicles.",
+          "location": "Phoenix, Arizona, United States"
+        },
+        {
+          "companyName": "NIO Inc.",
+          "description": "NIO is a Chinese multinational automobile manufacturer specializing in designing and developing electric vehicles.",
+          "location": "Shanghai, China"
+        },
+        {
+          "companyName": "Nippon Steel Corporation",
+          "description": "Nippon Steel is a major Japanese steel producer, one of the largest steel manufacturing companies globally.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Nissan Chemical Corporation",
+          "description": "Nissan Chemical is a Japanese chemical manufacturing company producing fine chemicals, performance materials, and pharmaceuticals.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Nitori Holdings Co., Ltd.",
+          "description": "Nitori is a Japanese furniture and home accessories retail company, similar in concept to IKEA.",
+          "location": "Sapporo, Hokkaido, Japan"
+        },
+        {
+          "companyName": "NN Group N.V.",
+          "description": "NN Group is a Dutch financial services company offering insurance, pension, and investment management products.",
+          "location": "The Hague, Netherlands"
+        },
+        {
+          "companyName": "Nokia Corporation",
+          "description": "Nokia is a Finnish multinational telecommunications, information technology, and consumer electronics company.",
+          "location": "Espoo, Uusimaa, Finland"
+        },
+        {
+          "companyName": "Nordea Bank Abp",
+          "description": "Nordea is a European financial services group operating in Northern Europe, headquartered in Finland.",
+          "location": "Helsinki, Uusimaa, Finland"
+        },
+        {
+          "companyName": "Norsk Hydro ASA",
+          "description": "Norsk Hydro is a Norwegian aluminium and renewable energy company, one of the largest aluminium companies worldwide.",
+          "location": "Oslo, Norway"
+        },
+        {
+          "companyName": "Northrop Grumman Corporation",
+          "description": "Northrop Grumman is an American global aerospace and defense technology company, one of the largest defense contractors.",
+          "location": "Falls Church, Virginia, United States"
+        },
+        {
+          "companyName": "Novo Nordisk A/S",
+          "description": "Novo Nordisk is a Danish multinational pharmaceutical company, a leader in diabetes care and other chronic conditions.",
+          "location": "Bagsværd, Denmark"
+        },
+        {
+          "companyName": "Ocado Group plc",
+          "description": "Ocado is a British online supermarket and technology company specializing in automated grocery fulfillment.",
+          "location": "Hatfield, Hertfordshire, United Kingdom"
+        },
+        {
+          "companyName": "OMV AG",
+          "description": "OMV is an Austrian multinational integrated oil, gas, and petrochemical company, operating in upstream and downstream.",
+          "location": "Vienna, Austria"
+        },
+        {
+          "companyName": "OTIS Worldwide Corporation",
+          "description": "Otis is an American company that develops, manufactures, and markets elevators, escalators, and moving walkways.",
+          "location": "Farmington, Connecticut, United States"
+        },
+        {
+          "companyName": "Petron Corporation",
+          "description": "Petron is a Filipino oil refining and marketing company, the largest oil refining and marketing company in the Philippines.",
+          "location": "Makati, Metro Manila, Philippines"
+        },
+        {
+          "companyName": "Philippine Airlines (PAL)",
+          "description": "PAL is the flag carrier of the Philippines, offering flights to multiple domestic and international destinations.",
+          "location": "Pasay, Metro Manila, Philippines"
+        },
+        {
+          "companyName": "Ping An Insurance (Group) Company of China, Ltd.",
+          "description": "Ping An is a Chinese holding conglomerate with subsidiaries in insurance, banking, and financial services.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "Pirelli & C. S.p.A.",
+          "description": "Pirelli is an Italian multinational tyre manufacturer, focusing on consumer tyres for cars, motorcycles, and bicycles.",
+          "location": "Milan, Lombardy, Italy"
+        },
+        {
+          "companyName": "Posco Holdings Inc.",
+          "description": "POSCO is a South Korean steel-making company, one of the largest steel manufacturers globally.",
+          "location": "Pohang, North Gyeongsang, South Korea"
+        },
+        {
+          "companyName": "Poste Italiane S.p.A.",
+          "description": "Poste Italiane is the Italian postal service provider, offering postal, financial, and insurance services.",
+          "location": "Rome, Lazio, Italy"
+        },
+        {
+          "companyName": "Prudential Financial, Inc.",
+          "description": "Prudential is an American Fortune Global 500 and Fortune 500 company offering insurance, investment management, and other services.",
+          "location": "Newark, New Jersey, United States"
+        },
+        {
+          "companyName": "Prudential plc",
+          "description": "Prudential plc is a British multinational life insurance and financial services company, primarily focused on Asia and Africa.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "PSA International",
+          "description": "PSA International is a port group owned by the Singapore government investment fund, operating container terminals worldwide.",
+          "location": "Singapore"
+        },
+        {
+          "companyName": "Puma SE",
+          "description": "Puma is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel, and accessories.",
+          "location": "Herzogenaurach, Bavaria, Germany"
+        },
+        {
+          "companyName": "Qantas Airways Limited",
+          "description": "Qantas is the flag carrier of Australia and its largest airline by fleet size, international flights, and international destinations.",
+          "location": "Sydney, New South Wales, Australia"
+        },
+        {
+          "companyName": "Qualcomm Incorporated",
+          "description": "Qualcomm is an American multinational corporation creating semiconductors, software, and wireless telecommunications products.",
+          "location": "San Diego, California, United States"
+        },
+        {
+          "companyName": "Quanta Computer Inc.",
+          "description": "Quanta Computer is a Taiwanese original design manufacturer producing notebook computers and other electronics.",
+          "location": "Guishan, Taoyuan, Taiwan"
+        },
+        {
+          "companyName": "Rakuten Bank, Ltd.",
+          "description": "Rakuten Bank is an internet bank in Japan and a subsidiary of Rakuten Group, offering online banking services.",
+          "location": "Setagaya, Tokyo, Japan"
+        },
+        {
+          "companyName": "Randstad N.V.",
+          "description": "Randstad is a Dutch multinational human resource consulting firm, the world's largest HR services provider.",
+          "location": "Diemen, Netherlands"
+        },
+        {
+          "companyName": "Revlon, Inc.",
+          "description": "Revlon is an American multinational cosmetics, skin care, fragrance, and personal care company.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Rio Tinto Group",
+          "description": "Rio Tinto is an Anglo-Australian multinational metals and mining corporation, one of the world's largest.",
+          "location": "London, United Kingdom / Melbourne, Australia"
+        },
+        {
+          "companyName": "Roku, Inc.",
+          "description": "Roku is an American publicly traded company manufacturing digital media players for video streaming, and offering an advertising business.",
+          "location": "San Jose, California, United States"
+        },
+        {
+          "companyName": "Rolls-Royce Motor Cars Limited (BMW Subsidiary)",
+          "description": "Rolls-Royce Motor Cars is a British luxury automobile maker, a wholly owned subsidiary of BMW.",
+          "location": "Goodwood, West Sussex, England, United Kingdom"
+        },
+        {
+          "companyName": "Royal Jordanian Airlines",
+          "description": "Royal Jordanian is the flag carrier airline of Jordan, providing flights across the Middle East, Europe, and beyond.",
+          "location": "Amman, Jordan"
+        },
+        {
+          "companyName": "S&P Global Inc.",
+          "description": "S&P Global is an American publicly traded corporation providing financial information and analytics, known for credit ratings.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "SAB Miller (Now part of AB InBev)",
+          "description": "SABMiller was a multinational brewing company acquired by Anheuser-Busch InBev in 2016.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Saipem S.p.A.",
+          "description": "Saipem is an Italian multinational oilfield services company specializing in drilling and pipeline construction.",
+          "location": "Milan, Lombardy, Italy"
+        },
+        {
+          "companyName": "Salesforce Tableau (Tableau Software, LLC)",
+          "description": "Tableau Software is an American interactive data visualization software company acquired by Salesforce.",
+          "location": "Seattle, Washington, United States"
+        },
+        {
+          "companyName": "Samsung C&T Corporation",
+          "description": "Samsung C&T is a South Korean construction and engineering company, part of the Samsung Group.",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "companyName": "Sandvik AB",
+          "description": "Sandvik is a Swedish multinational engineering company specializing in tooling, materials technology, mining, and construction.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Schlumberger Limited",
+          "description": "Schlumberger is the world's largest offshore drilling company, providing technology and services to the oil and gas industry.",
+          "location": "Houston, Texas, U.S., Paris, France, London, U.K."
+        },
+        {
+          "companyName": "Securitas AB",
+          "description": "Securitas is a Swedish security services company offering guards, technology, and consulting services.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Seven & i Holdings Co., Ltd.",
+          "description": "Seven & i is a Japanese diversified retail group operating 7-Eleven, Ito-Yokado, and Sogo & Seibu.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Shanghai Airlines",
+          "description": "Shanghai Airlines is a Chinese airline based at Shanghai Hongqiao International Airport and Shanghai Pudong International Airport.",
+          "location": "Shanghai, China"
+        },
+        {
+          "companyName": "Shenzhen Airlines",
+          "description": "Shenzhen Airlines is a Chinese airline operating domestic and international flights, partially owned by Air China.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "Shin-Etsu Chemical Co., Ltd.",
+          "description": "Shin-Etsu is a Japanese chemical company specializing in PVC, semiconductor silicon, and other materials.",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Shiseido Company, Limited",
+          "description": "Shiseido is a Japanese multinational personal care company, a major producer of cosmetics and hair care products.",
+          "location": "Chūō, Tokyo, Japan"
+        },
+        {
+          "companyName": "Shopify Inc.",
+          "description": "Shopify is a Canadian multinational e-commerce company offering a platform for online stores and retail point-of-sale systems.",
+          "location": "Ottawa, Ontario, Canada"
+        },
+        {
+          "companyName": "Siemens Healthineers AG",
+          "description": "Siemens Healthineers is a German medical device company, a subsidiary of Siemens, focusing on healthcare solutions.",
+          "location": "Erlangen, Bavaria, Germany"
+        },
+        {
+          "companyName": "SingTel (Singapore Telecommunications Limited)",
+          "description": "SingTel is a Singaporean telecommunications conglomerate, one of the largest mobile network operators in Singapore.",
+          "location": "Singapore"
+        },
+        {
+          "companyName": "Spotify Technology S.A.",
+          "description": "Spotify is a Swedish audio streaming and media services provider, offering music streaming globally.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Square, Inc. (Block, Inc.)",
+          "description": "Square, now Block, is an American financial services and digital payments company founded by Jack Dorsey.",
+          "location": "San Francisco, California, United States"
+        },
+        {
+          "companyName": "SSAB (Swedish Steel AB)",
+          "description": "SSAB is a Swedish company specialized in processing raw steel into high-strength steel products.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Standard Bank Group Limited",
+          "description": "Standard Bank is a major South African bank and financial services group, Africa's biggest lender by assets.",
+          "location": "Johannesburg, Gauteng, South Africa"
+        },
+        {
+          "companyName": "Stanley Black & Decker, Inc.",
+          "description": "Stanley Black & Decker is an American manufacturer of industrial tools, household hardware, and security products.",
+          "location": "New Britain, Connecticut, United States"
+        },
+        {
+          "companyName": "Subway (Doctor's Associates Inc.)",
+          "description": "Subway is an American fast-food restaurant franchise selling submarine sandwiches and salads.",
+          "location": "Milford, Connecticut, United States"
+        },
+        {
+          "companyName": "Suzano S.A.",
+          "description": "Suzano is a Brazilian company, one of the largest pulp and paper producers in Latin America.",
+          "location": "São Paulo, Brazil"
+        },
+        {
+          "companyName": "Swedbank AB",
+          "description": "Swedbank is a Nordic-Baltic banking group offering financial products to individuals and corporations.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Synchrony Financial",
+          "description": "Synchrony is an American consumer financial services company, the largest provider of private label credit cards in the U.S.",
+          "location": "Stamford, Connecticut, United States"
+        },
+        {
+          "companyName": "Taobao (Alibaba Group)",
+          "description": "Taobao is a Chinese online shopping website, a subsidiary of Alibaba Group, facilitating consumer-to-consumer retail.",
+          "location": "Hangzhou, Zhejiang, China"
+        },
+        {
+          "companyName": "Tenneco Inc.",
+          "description": "Tenneco is an American automotive components original equipment manufacturer, producing emission control and ride control products.",
+          "location": "Lake Forest, Illinois, United States"
+        },
+        {
+          "companyName": "Tesco plc",
+          "description": "Tesco is a British multinational groceries and general merchandise retailer, one of the largest retailers in the world.",
+          "location": "Welwyn Garden City, Hertfordshire, United Kingdom"
+        },
+        {
+          "companyName": "TikTok Inc. (ByteDance)",
+          "description": "TikTok is a short-form video hosting service owned by ByteDance, popular worldwide for user-generated content.",
+          "location": "Los Angeles, California, United States (Global); Beijing, China (Parent)"
+        },
+        {
+          "companyName": "TomTom N.V.",
+          "description": "TomTom is a Dutch multinational developer and creator of location technology and consumer electronics.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "Totalplay Telecomunicaciones, S.A. de C.V.",
+          "description": "Totalplay is a Mexican telecommunications company providing broadband internet, TV, and phone services.",
+          "location": "Mexico City, Mexico"
+        },
+        {
+          "companyName": "Truist Financial Corporation",
+          "description": "Formed by the merger of BB&T and SunTrust, Truist is an American bank holding company offering consumer and commercial banking.",
+          "location": "Charlotte, North Carolina, United States"
+        },
+        {
+          "companyName": "Ubisoft Entertainment S.A.",
+          "description": "Ubisoft is a French video game company, known for franchises like Assassin's Creed and Far Cry.",
+          "location": "Montreuil, Île-de-France, France"
+        },
+        {
+          "companyName": "Unicharm Corporation",
+          "description": "Unicharm is a Japanese company producing personal care products such as diapers and feminine hygiene.",
+          "location": "Minato, Tokyo, Japan"
+        },
+        {
+          "companyName": "Uni-President Enterprises Corporation",
+          "description": "Uni-President is a Taiwanese conglomerate involved in food manufacturing, retail, and financial services.",
+          "location": "Tainan City, Taiwan"
+        },
+        {
+          "companyName": "United Parcel Service (UPS)",
+          "description": "UPS is an American global package delivery and supply chain management company, one of the largest shipping couriers globally.",
+          "location": "Sandy Springs, Georgia, United States"
+        },
+        {
+          "companyName": "Valeo S.A.",
+          "description": "Valeo is a French automotive supplier, providing a wide range of components and systems to automakers.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Vestas Wind Systems A/S",
+          "description": "Vestas is a Danish manufacturer, seller, installer, and servicer of wind turbines, a global leader in wind energy solutions.",
+          "location": "Aarhus, Denmark"
+        },
+        {
+          "companyName": "WeWork Inc.",
+          "description": "WeWork is an American commercial real estate company providing flexible shared workspaces and related services.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Wipro Enterprises (P) Limited",
+          "description": "Wipro Enterprises is a holding company for Wipro Consumer Care & Lighting and Wipro Infrastructure Engineering.",
+          "location": "Bengaluru, Karnataka, India"
+        },
+        {
+          "companyName": "Xilinx, Inc. (AMD)",
+          "description": "Xilinx was an American technology company primarily known for programmable logic devices, acquired by AMD.",
+          "location": "San Jose, California, United States"
+        },
+        {
+          "companyName": "XPO, Inc.",
+          "description": "XPO is an American transportation and contract logistics company, providing shipping, supply chain, and last-mile delivery services.",
+          "location": "Greenwich, Connecticut, United States"
+        },
+        {
+          "companyName": "Yahoo! Japan Corporation (Z Holdings)",
+          "description": "Yahoo! Japan is a Japanese internet company formed as a joint venture between SoftBank and the American Yahoo!",
+          "location": "Chiyoda, Tokyo, Japan"
+        },
+        {
+          "companyName": "Yandex N.V.",
+          "description": "Yandex is a Russian multinational technology company providing Internet-related products and services.",
+          "location": "Moscow, Russia"
+        },
+        {
+          "companyName": "Yamaha Corporation",
+          "description": "Yamaha is a Japanese multinational corporation and conglomerate with a broad range of products and services, predominantly musical instruments and electronics.",
+          "location": "Hamamatsu, Shizuoka, Japan"
+        },
+        {
+          "companyName": "Zain Group (Mobile Telecommunications Company K.S.C.P.)",
+          "description": "Zain is a Kuwaiti mobile telecommunications company, operating in several Middle Eastern and African countries.",
+          "location": "Kuwait City, Kuwait"
+        },
+        {
+          "companyName": "Zeiss Group (Carl Zeiss AG)",
+          "description": "Zeiss is a German manufacturer of optical systems and optoelectronics products, such as cameras and microscopes.",
+          "location": "Oberkochen, Baden-Württemberg, Germany"
+        },
+        
+ 
+        {
+          "companyName": "Zillow Group, Inc.",
+          "description": "Zillow is an American online real estate marketplace company, offering real estate and rental listings.",
+          "location": "Seattle, Washington, United States"
+        },
+        {
+          "companyName": "Zomato Limited",
+          "description": "Zomato is an Indian multinational restaurant aggregator and food delivery company, operating in various countries worldwide.",
+          "location": "Gurugram, Haryana, India"
+        },
+        {
+          "companyName": "ZoomInfo Technologies Inc.",
+          "description": "ZoomInfo is an American subscription-based software as a service company providing detailed information on organizations and professionals.",
+          "location": "Vancouver, Washington, United States"
+        },
+        {
+          "companyName": "Zara (Inditex)",
+          "description": "Zara is a Spanish apparel retailer based in Galicia, offering fast fashion products including clothing and accessories.",
+          "location": "Arteixo, Galicia, Spain"
+        },
+        {
+          "companyName": "7-Eleven, Inc.",
+          "description": "7-Eleven is an American international chain of convenience stores, operating franchises and licenses under Seven & i Holdings.",
+          "location": "Dallas, Texas, United States"
+        },
+        {
+          "companyName": "A.P. Møller – Mærsk A/S",
+          "description": "Maersk is a Danish integrated shipping company, active in ocean and inland freight transportation and associated services.",
+          "location": "Copenhagen, Denmark"
+        },
+        {
+          "companyName": "A.S. Watson Group",
+          "description": "A.S. Watson is the world’s largest international health and beauty retailer, operating retail brands like Watsons and Superdrug.",
+          "location": "Hong Kong"
+        },
+        {
+          "companyName": "AB Volvo (Truck & Bus)",
+          "description": "AB Volvo is a Swedish multinational manufacturing company producing trucks, buses, and construction equipment.",
+          "location": "Gothenburg, Sweden"
+        },
+        {
+          "companyName": "Absa Group Limited",
+          "description": "Absa is a South African-based financial services group, offering personal and business banking, credit cards, and wealth management.",
+          "location": "Johannesburg, Gauteng, South Africa"
+        },
+        {
+          "companyName": "ABS-CBN Corporation",
+          "description": "ABS-CBN is a Filipino media and entertainment group, historically the largest entertainment and media conglomerate in the Philippines.",
+          "location": "Quezon City, Metro Manila, Philippines"
+        },
+        {
+          "companyName": "Accor S.A.",
+          "description": "Accor is a French multinational hospitality company, operating more than 5,100 hotels worldwide.",
+          "location": "Issy-les-Moulineaux, Île-de-France, France"
+        },
+        {
+          "companyName": "Adani Enterprises Limited",
+          "description": "Adani Enterprises is an Indian multinational conglomerate involved in port management, electric power generation, and more.",
+          "location": "Ahmedabad, Gujarat, India"
+        },
+        {
+          "companyName": "AECOM",
+          "description": "AECOM is an American multinational engineering firm, providing design, consulting, construction, and management services.",
+          "location": "Dallas, Texas, United States"
+        },
+        {
+          "companyName": "AIA Group Limited",
+          "description": "AIA is the largest public listed pan-Asian life insurance group, providing products in 18 markets across Asia.",
+          "location": "Central, Hong Kong"
+        },
+        {
+          "companyName": "Air France–KLM Group",
+          "description": "Air France–KLM is a Franco-Dutch airline holding company formed by the merger of Air France and KLM.",
+          "location": "Tremblay-en-France, Île-de-France, France"
+        },
+        {
+          "companyName": "Air Liquide S.A.",
+          "description": "Air Liquide is a French multinational company providing gases and services to various industries.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Alcoa Fastening Systems & Rings (Arconic Fastening)",
+          "description": "Previously part of Alcoa, focusing on aerospace and industrial fasteners, now under Arconic.",
+          "location": "Pittsburgh, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Alimentation Couche-Tard Inc.",
+          "description": "Couche-Tard is a Canadian multinational operator of convenience stores, operating Circle K, Couche-Tard, and Ingo.",
+          "location": "Laval, Quebec, Canada"
+        },
+        {
+          "companyName": "Alkan Air Ltd.",
+          "description": "Alkan Air is a Canadian charter airline offering air ambulance, cargo, and flight training services.",
+          "location": "Whitehorse, Yukon, Canada"
+        },
+        {
+          "companyName": "Allied Irish Banks, p.l.c. (AIB)",
+          "description": "AIB is one of the so-called Big Four commercial banks in Ireland, providing a range of personal and corporate banking services.",
+          "location": "Dublin, Ireland"
+        },
+        {
+          "companyName": "Alrosa PJSC",
+          "description": "Alrosa is a Russian group of diamond mining companies, accounting for a significant portion of the world's diamond output.",
+          "location": "Mirny, Sakha Republic, Russia"
+        },
+        {
+          "companyName": "Alpha Bank",
+          "description": "Alpha Bank is one of the largest banks in Greece, offering financial services to consumers and businesses.",
+          "location": "Athens, Greece"
+        },
+        {
+          "companyName": "Altice Europe N.V.",
+          "description": "Altice is a multinational telecommunications and media company, operating in Western Europe, the U.S., and the Caribbean.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "AmulFed Dairy (GCMMF)",
+          "description": "AmulFed Dairy is a unit of Gujarat Cooperative Milk Marketing Federation, focusing on dairy processing and milk products.",
+          "location": "Gandhinagar, Gujarat, India"
+        },
+        {
+          "companyName": "Arcadis NV",
+          "description": "Arcadis is a global design, engineering, and management consulting company based in the Netherlands.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "ArcBest Corporation",
+          "description": "ArcBest is an American transportation and logistics company providing supply chain solutions.",
+          "location": "Fort Smith, Arkansas, United States"
+        },
+        {
+          "companyName": "Argo Group International Holdings, Ltd.",
+          "description": "Argo Group is an international underwriter of specialty insurance and reinsurance products in the property and casualty market.",
+          "location": "Pembroke, Bermuda"
+        },
+        {
+          "companyName": "Arla Plast AB",
+          "description": "Arla Plast is a Swedish plastics processing company, producing extruded sheets of various thermoplastics.",
+          "location": "Börlange, Sweden"
+        },
+        {
+          "companyName": "Asiana Airlines Inc.",
+          "description": "Asiana is one of South Korea's two major airlines, offering domestic and international passenger and cargo services.",
+          "location": "Seoul, South Korea"
+        },
+        {
+          "companyName": "ASM International N.V.",
+          "description": "ASM is a Dutch headquartered multinational, providing equipment for semiconductor wafer processing.",
+          "location": "Almere, Netherlands"
+        },
+        {
+          "companyName": "Aspen Pharmacare Holdings Limited",
+          "description": "Aspen is a multinational South African pharmaceutical company, the largest drug company in Africa.",
+          "location": "Durban, South Africa"
+        },
+        {
+          "companyName": "ASR Nederland N.V.",
+          "description": "ASR is a Dutch insurance company offering life, non-life, and disability insurance, plus asset management.",
+          "location": "Utrecht, Netherlands"
+        },
+        {
+          "companyName": "Aston Martin Lagonda Global Holdings plc",
+          "description": "Aston Martin is a British manufacturer of luxury sports cars and grand tourers.",
+          "location": "Gaydon, Warwickshire, England, United Kingdom"
+        },
+        {
+          "companyName": "Atlas Copco AB",
+          "description": "Atlas Copco is a Swedish industrial company that manufactures industrial tools and equipment.",
+          "location": "Nacka, Stockholm, Sweden"
+        },
+        {
+          "companyName": "Atlantia S.p.A. (now Mundys)",
+          "description": "Atlantia, rebranded as Mundys, is an Italian holding company operating motorways and airports under subsidiaries.",
+          "location": "Rome, Lazio, Italy"
+        },
+        {
+          "companyName": "Axfood AB",
+          "description": "Axfood is a Swedish food retail company operating multiple supermarket chains such as Willys and Hemköp.",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "companyName": "Bajaj Auto Limited",
+          "description": "Bajaj Auto is an Indian multinational two-wheeler and three-wheeler manufacturing company.",
+          "location": "Pune, Maharashtra, India"
+        },
+        {
+          "companyName": "Bajaj Finserv Limited",
+          "description": "Bajaj Finserv is an Indian financial services company focused on lending, asset management, and insurance.",
+          "location": "Pune, Maharashtra, India"
+        },
+        {
+          "companyName": "Banca Mediolanum S.p.A.",
+          "description": "Banca Mediolanum is an Italian bank offering banking, insurance, and asset management services.",
+          "location": "Basiglio, Metropolitan City of Milan, Italy"
+        },
+        {
+          "companyName": "Banco Bradesco S.A.",
+          "description": "Bradesco is a Brazilian financial services company, one of the largest banking and financial services in Brazil.",
+          "location": "Osasco, São Paulo, Brazil"
+        },
+        {
+          "companyName": "Banco do Brasil S.A.",
+          "description": "Banco do Brasil is the largest bank by assets in Brazil, majority-owned by the Brazilian government.",
+          "location": "Brasília, Federal District, Brazil"
+        },
+        {
+          "companyName": "Bank Mandiri (Persero) Tbk.",
+          "description": "Bank Mandiri is an Indonesian state-owned bank and the largest bank in Indonesia in terms of assets.",
+          "location": "Jakarta, Indonesia"
+        },
+        {
+          "companyName": "Banorte (Grupo Financiero Banorte)",
+          "description": "Banorte is a Mexican banking and financial services holding company, one of the largest in the country.",
+          "location": "Monterrey, Nuevo León, Mexico"
+        },
+        {
+          "companyName": "BCE Inc. (Bell Canada Enterprises)",
+          "description": "BCE is a Canadian telecommunications and media company, commonly referred to as Bell Canada or Bell.",
+          "location": "Verdun, Quebec, Canada"
+        },
+        {
+          "companyName": "Bechtel Corporation",
+          "description": "Bechtel is an American engineering, procurement, construction, and project management company.",
+          "location": "Reston, Virginia, United States"
+        },
+        {
+          "companyName": "Belarusian State Concern for Oil and Chemistry (Belneftekhim)",
+          "description": "Belneftekhim is a state-owned corporation overseeing oil refining and petrochemical production in Belarus.",
+          "location": "Minsk, Belarus"
+        },
+        {
+          "companyName": "Berluti (LVMH)",
+          "description": "Berluti is a French leather goods house known for its handmade shoes and boots, owned by LVMH.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Bibby Financial Services",
+          "description": "Bibby is an independent financial services provider specializing in invoice finance and asset-based lending.",
+          "location": "Banbury, Oxfordshire, United Kingdom"
+        },
+        {
+          "companyName": "Bing (Microsoft)",
+          "description": "Bing is a web search engine owned and operated by Microsoft, offering web, video, image search, and more.",
+          "location": "Redmond, Washington, United States"
+        },
+        {
+          "companyName": "Bloomberg L.P.",
+          "description": "Bloomberg is a privately held financial, software, data, and media company, best known for the Bloomberg Terminal.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "BNP Paribas Fortis",
+          "description": "BNP Paribas Fortis is an international bank based in Belgium, a subsidiary of BNP Paribas.",
+          "location": "Brussels, Belgium"
+        },
+        {
+          "companyName": "Boohoo Group plc",
+          "description": "Boohoo is a UK-based online fashion retailer, aimed at 16- to 30-year-olds, operating several e-commerce brands.",
+          "location": "Manchester, England, United Kingdom"
+        },
+        {
+          "companyName": "BorgWarner, Inc.",
+          "description": "BorgWarner is an American worldwide automotive industry components and parts supplier, focusing on powertrain products.",
+          "location": "Auburn Hills, Michigan, United States"
+        },
+        {
+          "companyName": "Bose Corporation",
+          "description": "Bose is an American manufacturing company primarily selling audio equipment, known for its noise-cancelling headphones.",
+          "location": "Framingham, Massachusetts, United States"
+        },
+        {
+          "companyName": "Boursin (Bel Group)",
+          "description": "Boursin is a brand of Gournay cheese produced by the Bel Group, a multinational cheese marketer.",
+          "location": "Suresnes, Île-de-France, France"
+        },
+        {
+          "companyName": "Box, Inc.",
+          "description": "Box is an American public company focusing on cloud content management and file sharing services for businesses.",
+          "location": "Redwood City, California, United States"
+        },
+        {
+          "companyName": "Burberry Group plc",
+          "description": "Burberry is a British luxury fashion house, distributing ready-to-wear outerwear, fashion accessories, fragrances, sunglasses, and cosmetics.",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "BYD Company Limited",
+          "description": "BYD is a Chinese manufacturing company specializing in batteries, electronics, automobiles, and electric vehicles.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "Calvin Klein Inc. (PVH)",
+          "description": "Calvin Klein is an American fashion house founded by designer Calvin Klein, specializing in leather, lifestyle accessories, and more.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "China Evergrande Group",
+          "description": "China Evergrande is a Chinese property developer and real estate conglomerate, one of the largest in China.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "Chubu Electric Power Co., Inc.",
+          "description": "Chubu Electric Power is the third-largest electric utility in Japan in terms of power generation capacity.",
+          "location": "Nagoya, Aichi, Japan"
+        },
+        {
+          "companyName": "Cineworld Group plc",
+          "description": "Cineworld is a British cinema operator, the second-largest cinema chain in the world (by number of screens).",
+          "location": "London, England, United Kingdom"
+        },
+        {
+          "companyName": "Citroën (Stellantis)",
+          "description": "Citroën is a French automobile manufacturer, part of Stellantis, known for innovative technology and design.",
+          "location": "Rueil-Malmaison, Île-de-France, France"
+        },
+        {
+          "companyName": "Coach New York (Tapestry, Inc.)",
+          "description": "Coach is an American modern luxury fashion house specialized in handbags, luggage, and accessories, under Tapestry, Inc.",
+          "location": "New York City, New York, United States"
+        },
+        {
+          "companyName": "Colruyt Group",
+          "description": "Colruyt is a Belgian retail corporation, operating supermarkets, convenience stores, and other diversified businesses.",
+          "location": "Halle, Flemish Brabant, Belgium"
+        },
+        {
+          "companyName": "Conagra Brands, Inc.",
+          "description": "Conagra Brands is an American consumer packaged goods holding company, selling products under multiple brand names.",
+          "location": "Chicago, Illinois, United States"
+        },
+        {
+          "companyName": "Coty Inc.",
+          "description": "Coty is an American-French multinational beauty company, manufacturing skin and hair care, fragrances, and cosmetic products.",
+          "location": "New York City, New York, United States / Paris, France"
+        },
+        {
+          "companyName": "Crédit Mutuel",
+          "description": "Crédit Mutuel is a major French banking and insurance group, structured on a cooperative model.",
+          "location": "Strasbourg, Grand Est, France"
+        },
+        {
+          "companyName": "Cromwell Property Group",
+          "description": "Cromwell is an Australian Real Estate Investment Trust (REIT) investing in commercial property and asset management.",
+          "location": "Brisbane, Queensland, Australia"
+        },
+        {
+          "companyName": "Crozer Health",
+          "description": "Crozer Health is a regional health care system operating several hospitals and health facilities in Pennsylvania.",
+          "location": "Springfield, Pennsylvania, United States"
+        },
+        {
+          "companyName": "Cubot (Shenzhen Huafurui Technology Co., Ltd.)",
+          "description": "Cubot is a Chinese smartphone manufacturer, producing low-cost Android-based phones.",
+          "location": "Shenzhen, Guangdong, China"
+        },
+        {
+          "companyName": "DANA Incorporated",
+          "description": "Dana is an American supplier of axles, driveshafts, and other automotive components for major global automakers.",
+          "location": "Maumee, Ohio, United States"
+        },
+        {
+          "companyName": "Danish Crown AmbA",
+          "description": "Danish Crown is a global meat processing company, the largest pork exporter and a leading supplier of beef in Europe.",
+          "location": "Randers, Denmark"
+        },
+        {
+          "companyName": "Danske Bank Group",
+          "description": "Danske Bank is a Danish banking group, the largest in Denmark and a major retail bank in the Nordics.",
+          "location": "Copenhagen, Denmark"
+        },
+        {
+          "companyName": "Davide Campari-Milano N.V.",
+          "description": "Campari Group is an Italian beverage company with a portfolio of over 50 premium and super premium brands, including Campari.",
+          "location": "Sesto San Giovanni, Lombardy, Italy"
+        },
+        {
+          "companyName": "Deutsche Bahn AG",
+          "description": "Deutsche Bahn is a German railway company, the largest railway operator and infrastructure owner in Europe.",
+          "location": "Berlin, Germany"
+        },
+        {
+          "companyName": "DKSH Holding Ltd.",
+          "description": "DKSH is a Swiss holding company specializing in market expansion services, mainly in Asia.",
+          "location": "Zurich, Switzerland"
+        },
+        {
+          "companyName": "DnB ASA (Den Norske Bank)",
+          "description": "DNB is Norway's largest financial services group, offering banking, insurance, and asset management.",
+          "location": "Oslo, Norway"
+        },
+        {
+          "companyName": "Domino's Pizza, Inc.",
+          "description": "Domino's is an American multinational pizza restaurant chain, recognized as the largest pizza seller worldwide.",
+          "location": "Ann Arbor, Michigan, United States"
+        },
+        {
+          "companyName": "Dr Pepper Snapple Group (Keurig Dr Pepper)",
+          "description": "Now part of Keurig Dr Pepper, it is an American soft drink conglomerate including brands like Dr Pepper and Snapple.",
+          "location": "Burlington, Massachusetts, United States"
+        },
+        {
+          "companyName": "DSM-Firmenich",
+          "description": "DSM-Firmenich is a Swiss-Dutch company specialized in health, nutrition, and beauty, formed by the merger of DSM and Firmenich.",
+          "location": "Kaiseraugst, Switzerland & Heerlen, Netherlands"
+        },
+        {
+          "companyName": "DSP Group, Inc.",
+          "description": "DSP Group is an American semiconductor company that develops wireless chipset solutions for converged communications.",
+          "location": "San Jose, California, United States"
+        },
+        {
+          "companyName": "Dufry AG",
+          "description": "Dufry is a Swiss-based travel retailer operating duty-free and duty-paid shops in airports, cruise lines, and other travel sectors.",
+          "location": "Basel, Switzerland"
+        },
+        {
+          "companyName": "Duty Free Americas, Inc.",
+          "description": "Duty Free Americas is an American travel retailer with duty-free shops in the U.S. and international airports.",
+          "location": "Hollywood, Florida, United States"
+        },
+        {
+          "companyName": "El Corte Inglés S.A.",
+          "description": "El Corte Inglés is the biggest department store group in Europe and ranks third worldwide, offering retail, travel, and insurance services.",
+          "location": "Madrid, Community of Madrid, Spain"
+        },
+        {
+          "companyName": "Element Fleet Management Corp.",
+          "description": "Element is a Canadian financial corporation that provides fleet management services and financing solutions.",
+          "location": "Toronto, Ontario, Canada"
+        },
+        {
+          "companyName": "Elior Group S.A.",
+          "description": "Elior is a French multinational commercial catering and food service company, operating in multiple countries.",
+          "location": "Paris, Île-de-France, France"
+        },
+        {
+          "companyName": "Elsevier (RELX Group)",
+          "description": "Elsevier is a Dutch academic publishing company specializing in scientific, technical, and medical content.",
+          "location": "Amsterdam, Netherlands"
+        },
+        {
+          "companyName": "Endesa, S.A.",
+          "description": "Endesa is a Spanish multinational electric utility company, the largest in Spain, part of the Enel Group.",
+          "location": "Madrid, Community of Madrid, Spain"
+        },
+        {
+          "companyName": "Energy Transfer LP",
+          "description": "Energy Transfer is an American company engaged in natural gas and propane pipeline transport.",
+          "location": "Dallas, Texas, United States"
+        },
+        {
+          "companyName": "Equifax Inc.",
+          "description": "Equifax is an American multinational consumer credit reporting agency, collecting and aggregating information on over 800 million consumers.",
+          "location": "Atlanta, Georgia, United States"
+        },
+        {
+          "companyName": "EssilorLuxottica SA",
+          "description": "EssilorLuxottica is a French-Italian multinational corporation, a global leader in eyewear and eyecare products.",
+          "location": "Paris, France and Milan, Italy"
+        },
+        {
+          "companyName": "Etihad Airways PJSC",
+          "description": "Etihad is the second-largest airline of the United Arab Emirates, operating passenger and cargo services.",
+          "location": "Khalifa City, Abu Dhabi, United Arab Emirates"
+        },
+        {
+          "companyName": "Expedia Group, Inc.",
+          "description": "Expedia is an American online travel shopping company for consumer and small business travel.",
+          "location": "Seattle, Washington, United States"
+        },
+        {
+          "companyName": "Exponent Inc.",
+          "description": "Exponent is an American engineering and scientific consulting firm, providing investigations, analysis, and prevention services.",
+          "location": "Menlo Park, California, United States"
+        },
+        {
+          "companyName": "Fidelity National Financial, Inc.",
+          "description": "Fidelity National Financial is an American company providing title insurance and settlement services to the real estate industry.",
+          "location": "Jacksonville, Florida, United States"
+        }
+      ]
+   
