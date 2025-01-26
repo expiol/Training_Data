@@ -1,0 +1,397 @@
+{
+    "cities": [
+      {
+        "city": "New York",
+        "streets": ["Fifth Avenue", "Broadway", "Wall Street"]
+      },
+      {
+        "city": "London",
+        "streets": ["Oxford Street", "Regent Street", "Piccadilly"]
+      },
+      {
+        "city": "Paris",
+        "streets": ["Champs-Élysées", "Rue de Rivoli", "Boulevard Saint-Germain"]
+      },
+      {
+        "city": "Tokyo",
+        "streets": ["Ginza", "Shibuya Crossing", "Omotesando"]
+      },
+      {
+        "city": "Los Angeles",
+        "streets": ["Sunset Boulevard", "Rodeo Drive", "Hollywood Boulevard"]
+      },
+      {
+        "city": "Beijing",
+        "streets": ["Wangfujing Street", "Qianmen Street", "Nanluoguxiang"]
+      },
+      {
+        "city": "Shanghai",
+        "streets": ["Nanjing Road", "The Bund", "Huaihai Road"]
+      },
+      {
+        "city": "Hong Kong",
+        "streets": ["Nathan Road", "Queen's Road Central", "Hollywood Road"]
+      },
+      {
+        "city": "Dubai",
+        "streets": ["Sheikh Zayed Road", "Jumeirah Beach Road", "Al Fahidi Street"]
+      },
+      {
+        "city": "Singapore",
+        "streets": ["Orchard Road", "Marina Bay Sands", "Bugis Street"]
+      },
+      {
+        "city": "Berlin",
+        "streets": ["Unter den Linden", "Kurfürstendamm", "Friedrichstraße"]
+      },
+      {
+        "city": "Sydney",
+        "streets": ["George Street", "Oxford Street", "King Street"]
+      },
+      {
+        "city": "Rome",
+        "streets": ["Via del Corso", "Via Veneto", "Via Condotti"]
+      },
+      {
+        "city": "Moscow",
+        "streets": ["Arbat Street", "Tverskaya Street", "Nikolskaya Street"]
+      },
+      {
+        "city": "Barcelona",
+        "streets": ["La Rambla", "Passeig de Gràcia", "Avinguda Diagonal"]
+      },
+      {
+        "city": "Istanbul",
+        "streets": ["İstiklal Avenue", "Bağdat Avenue", "Sultanahmet Square"]
+      },
+      {
+        "city": "Chicago",
+        "streets": ["Michigan Avenue", "State Street", "Wacker Drive"]
+      },
+      {
+        "city": "Bangkok",
+        "streets": ["Sukhumvit Road", "Khao San Road", "Silom Road"]
+      },
+      {
+        "city": "San Francisco",
+        "streets": ["Lombard Street", "Market Street", "Haight Street"]
+      },
+      {
+        "city": "Mumbai",
+        "streets": ["Marine Drive", "Colaba Causeway", "Linking Road"]
+      },
+      {
+        "city": "Rio de Janeiro",
+        "streets": ["Avenida Atlântica", "Rua Visconde de Pirajá", "Avenida Rio Branco"]
+      },
+      {
+        "city": "Toronto",
+        "streets": ["Yonge Street", "Queen Street West", "Bloor Street"]
+      },
+      {
+        "city": "Seoul",
+        "streets": ["Gangnam-daero", "Insadong Street", "Myeongdong Shopping Street"]
+      },
+      {
+        "city": "Mexico City",
+        "streets": ["Paseo de la Reforma", "Avenida Insurgentes", "Calle Madero"]
+      },
+      {
+        "city": "Madrid",
+        "streets": ["Gran Vía", "Calle de Alcalá", "Paseo del Prado"]
+      },
+      {
+        "city": "Buenos Aires",
+        "streets": ["Avenida 9 de Julio", "Avenida Corrientes", "Calle Florida"]
+      },
+      {
+        "city": "Cairo",
+        "streets": ["Tahrir Square", "Al-Muizz Street", "Talaat Harb Street"]
+      },
+      {
+        "city": "Amsterdam",
+        "streets": ["Damrak", "Kalverstraat", "Leidsestraat"]
+      },
+      {
+        "city": "Delhi",
+        "streets": ["Connaught Place", "Chandni Chowk", "Rajpath"]
+      },
+      {
+        "city": "Vienna",
+        "streets": ["Kärntner Straße", "Mariahilfer Straße", "Graben"]
+      },
+      {
+        "city": "Melbourne",
+        "streets": ["Collins Street", "Bourke Street", "Chapel Street"]
+      },
+      {
+        "city": "Jakarta",
+        "streets": ["Jalan Jenderal Sudirman", "Jalan MH Thamrin", "Jalan Jaksa"]
+      },
+      {
+        "city": "São Paulo",
+        "streets": ["Avenida Paulista", "Rua Oscar Freire", "Rua Augusta"]
+      },
+      {
+        "city": "Cape Town",
+        "streets": ["Long Street", "Kloof Street", "Adderley Street"]
+      },
+      {
+        "city": "Kuala Lumpur",
+        "streets": ["Jalan Bukit Bintang", "Jalan Alor", "Petaling Street"]
+      },
+      {
+        "city": "Dublin",
+        "streets": ["O'Connell Street", "Grafton Street", "Temple Bar"]
+      },
+      {
+        "city": "Athens",
+        "streets": ["Ermou Street", "Panepistimiou Street", "Adrianou Street"]
+      },
+      {
+        "city": "Lisbon",
+        "streets": ["Avenida da Liberdade", "Rua Augusta", "Bairro Alto"]
+      },
+      {
+        "city": "Hanoi",
+        "streets": ["Hoan Kiem Lake", "Hang Gai Street", "Phan Dinh Phung Street"]
+      },
+      {
+        "city": "Taipei",
+        "streets": ["Ximending", "Zhongxiao East Road", "Dihua Street"]
+      },
+      {
+        "city": "Osaka",
+        "streets": ["Dōtonbori", "Shinsaibashi-suji", "Midosuji Boulevard"]
+      },
+      {
+        "city": "Munich",
+        "streets": ["Maximilianstraße", "Kaufingerstraße", "Leopoldstraße"]
+      },
+      {
+        "city": "Boston",
+        "streets": ["Newbury Street", "Boylston Street", "Beacon Street"]
+      },
+      {
+        "city": "Stockholm",
+        "streets": ["Drottninggatan", "Strandvägen", "Götgatan"]
+      },
+      {
+        "city": "Zurich",
+        "streets": ["Bahnhofstrasse", "Niederdorfstrasse", "Langstrasse"]
+      },
+      {
+        "city": "Edinburgh",
+        "streets": ["Royal Mile", "Princes Street", "George Street"]
+      },
+      {
+        "city": "Prague",
+        "streets": ["Wenceslas Square", "Charles Street", "Parizska Street"]
+      },
+      {
+        "city": "Venice",
+        "streets": ["Rialto Bridge", "St. Mark's Square", "Strada Nova"]
+      },
+      {
+        "city": "Budapest",
+        "streets": ["Andrássy Avenue", "Váci Street", "Rákóczi Road"]
+      },
+      {
+        "city": "Warsaw",
+        "streets": ["Nowy Świat Street", "Krakowskie Przedmieście", "Marszałkowska Street"]
+      },
+      {
+        "city": "Manila",
+        "streets": ["Roxas Boulevard", "Ayala Avenue", "Escolta"]
+      },
+      {
+        "city": "San Diego",
+        "streets": ["Gaslamp Quarter", "Pacific Highway", "Mission Boulevard"]
+      },
+      {
+        "city": "Seattle",
+        "streets": ["Pike Place", "Broadway", "Aurora Avenue"]
+      },
+      {
+        "city": "Washington D.C.",
+        "streets": ["Pennsylvania Avenue", "Constitution Avenue", "M Street"]
+      },
+      {
+        "city": "Miami",
+        "streets": ["Ocean Drive", "Collins Avenue", "Brickell Avenue"]
+      },
+      {
+        "city": "Houston",
+        "streets": ["Westheimer Road", "Main Street", "Washington Avenue"]
+      },
+      {
+        "city": "Vancouver",
+        "streets": ["Robson Street", "Granville Street", "Commercial Drive"]
+      },
+      {
+        "city": "Doha",
+        "streets": ["Corniche Street", "Al Sadd Street", "Salwa Road"]
+      },
+      {
+        "city": "Abu Dhabi",
+        "streets": ["Corniche Road", "Sheikh Zayed Street", "Al Khalidiyah Street"]
+      },
+      {
+        "city": "Bangalore",
+        "streets": ["MG Road", "Brigade Road", "Commercial Street"]
+      },
+      {
+        "city": "Lagos",
+        "streets": ["Broad Street", "Marina Road", "Adeola Odeku Street"]
+      },
+      {
+        "city": "Kiev",
+        "streets": ["Khreshchatyk Street", "Andriyivskyy Descent", "Velyka Vasylkivska Street"]
+      },
+      {
+        "city": "Johannesburg",
+        "streets": ["Jan Smuts Avenue", "Oxford Road", "Main Street"]
+      },
+      {
+        "city": "Tel Aviv",
+        "streets": ["Rothschild Boulevard", "Dizengoff Street", "Allenby Street"]
+      },
+      {
+        "city": "Chengdu",
+        "streets": ["Jinli Ancient Street", "Chunxi Road", "Yulin Street"]
+      },
+      {
+        "city": "Guangzhou",
+        "streets": ["Beijing Road", "Shamian Island Street", "Huacheng Avenue"]
+      },
+      {
+        "city": "Brussels",
+        "streets": ["Grand Place", "Rue Neuve", "Avenue Louise"]
+      },
+      {
+        "city": "Copenhagen",
+        "streets": ["Strøget", "Nyhavn", "Frederiksberg Alle"]
+      },
+      {
+        "city": "Oslo",
+        "streets": ["Karl Johans Gate", "Aker Brygge", "Bogstadveien"]
+      },
+      {
+        "city": "Helsinki",
+        "streets": ["Esplanadi", "Aleksanterinkatu", "Mannerheimintie"]
+      },
+      {
+        "city": "Porto",
+        "streets": ["Rua de Santa Catarina", "Avenida dos Aliados", "Rua das Flores"]
+      },
+      {
+        "city": "Florence",
+        "streets": ["Via dei Calzaiuoli", "Via de' Tornabuoni", "Piazza della Signoria"]
+      },
+      {
+        "city": "Nice",
+        "streets": ["Promenade des Anglais", "Rue de France", "Cours Saleya"]
+      },
+      {
+        "city": "Naples",
+        "streets": ["Via Toledo", "Spaccanapoli", "Via Chiaia"]
+      },
+      {
+        "city": "Marseille",
+        "streets": ["La Canebière", "Rue Saint-Ferréol", "Corniche Kennedy"]
+      },
+      {
+        "city": "Montreal",
+        "streets": ["Rue Sainte-Catherine", "Boulevard Saint-Laurent", "Rue Sherbrooke"]
+      },
+      {
+        "city": "Lima",
+        "streets": ["Jirón de la Unión", "Avenida Larco", "Calle de las Pizzas"]
+      },
+      {
+        "city": "Santiago",
+        "streets": ["Alameda", "Avenida Apoquindo", "Paseo Ahumada"]
+      },
+      {
+        "city": "Bogotá",
+        "streets": ["Calle 26", "Carrera Séptima", "Zona T"]
+      },
+      {
+        "city": "Riyadh",
+        "streets": ["Olaya Street", "King Fahad Road", "Tahlia Street"]
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "streets": ["Nguyen Hue Boulevard", "Bui Vien Street", "Dong Khoi Street"]
+      },
+      {
+        "city": "Auckland",
+        "streets": ["Queen Street", "Ponsonby Road", "Karangahape Road"]
+      },
+      {
+        "city": "Perth",
+        "streets": ["Hay Street", "Murray Street", "Riverside Drive"]
+      },
+      {
+        "city": "Brisbane",
+        "streets": ["Queen Street Mall", "Adelaide Street", "Boundary Street"]
+      },
+      {
+        "city": "Adelaide",
+        "streets": ["Rundle Mall", "King William Street", "O'Connell Street"]
+      },
+      {
+        "city": "Casablanca",
+        "streets": ["Boulevard de la Corniche", "Boulevard Mohammed V", "Rue Al Massira"]
+      },
+      {
+        "city": "Quebec City",
+        "streets": ["Rue Saint-Jean", "Grande Allée", "Petit Champlain"]
+      },
+      {
+        "city": "Tunis",
+        "streets": ["Avenue Habib Bourguiba", "Rue Charles de Gaulle", "Rue de Marseille"]
+      },
+      {
+        "city": "Bucharest",
+        "streets": ["Calea Victoriei", "Bulevardul Unirii", "Lipscani Street"]
+      },
+      {
+        "city": "Birmingham",
+        "streets": ["New Street", "Corporation Street", "Broad Street"]
+      },
+      {
+        "city": "Glasgow",
+        "streets": ["Sauchiehall Street", "Buchanan Street", "Argyle Street"]
+      },
+      {
+        "city": "Lyon",
+        "streets": ["Rue de la République", "Cours Charlemagne", "Rue Mercière"]
+      },
+      {
+        "city": "Antwerp",
+        "streets": ["Meir", "Kloosterstraat", "Groenplaats"]
+      },
+      {
+        "city": "Geneva",
+        "streets": ["Rue du Rhône", "Rue de la Confédération", "Quai du Mont-Blanc"]
+      },
+      {
+        "city": "Valencia",
+        "streets": ["Calle de la Paz", "Avenida del Puerto", "Plaza del Ayuntamiento"]
+      },
+      {
+        "city": "Fukuoka",
+        "streets": ["Tenjin", "Nakasu", "Hakata Station"]
+      },
+      {
+        "city": "Chennai",
+        "streets": ["Anna Salai", "T. Nagar", "Marina Beach Road"]
+      },
+      {
+        "city": "Karachi",
+        "streets": ["Shahrah-e-Faisal", "Tariq Road", "Clifton Road"]
+      }
+    ]
+  }
+  
