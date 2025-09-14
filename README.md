@@ -32,6 +32,8 @@
 * * *
 
 ## 元数据来源
+**网址**：[https://dbpedia.org/sparql](https://dbpedia.org/sparql)
+
 
 * **University.json**：来源于 **QS 2025 排行榜**
     
